@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+<!-- Taken from the "cereal" example: http://bl.ocks.org/weiglemc/6185069 -->
+<!-- That example is based on the other examples below: -->
+<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
+<!-- Tooltip example from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html -->
+
+<style>
+body {
+  font: 16px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+.tooltip {
+  position: absolute;
+  width: auto;
+  height: auto;
+  background-color: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+  font: 12px sans-serif;
+  color: black  
+}
+</style>
+<body>
+
+<form>
+	<select id="AcademicYear">
+		<option value="2010">Academic Year:</option>
+		<option value="2002">2002</option>
+		<option value="2003">2003</option>
+		<option value="2004">2004</option>
+		<option value="2005">2005</option>
+		<option value="2006">2006</option>
+		<option value="2007">2007</option>
+		<option value="2008">2008</option>
+		<option value="2009">2009</option>
+		<option value="2010">2010</option>
+	</select>
+	
+        <select id="radiusOption">
+		<option value="default">Radius Size:</option>
+	        <option value="default">Constant Radius</option>
+	        <option value="pell">Total Pell Grants</option>
+	        <option value="enroll">Total Enrollment</option>
+	</select>
+</form>	
+
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<!--
+<script src="../../D3.d/d3/d3.min.js"></script>
+-->
+
+<script>
+
+var acadyear = 2002;
+var pell = true;
+var enroll = false;
+var dataset = [];
+var selector;
+var dots;
+
+var margin = {top: 20, right: 20, bottom: 50, left: 100},
+    width = 1000 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
+
+
+d3.select("#AcademicYear").on("change",draw_next_year);
+d3.select("#radiusOption").on("change",draw_next_radius);
+
+// add the graph canvas to the body of the webpage
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// setup x 
+var xValue = function(d) { return d.grad_rate_150_p4yr;}, // data -> value
+    xScale = d3.scale.linear().range([0, width]), // value -> display
+    xMap = function(d) { return xScale(xValue(d));}, // data -> display
+    xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+
+// setup y
+var yValue = function(d) { return d.tuitionfee02_tf;}, // data -> value
+    yScale = d3.scale.linear().range([0, height]), // value -> display
+    yMap = function(d) { return yScale(yValue(d));}, // data -> display
+    yAxis = d3.svg.axis().scale(yScale).orient("left");
+
+// setup fill color
+var cValue = function(d) { return d.sector_revised;},
+    color = d3.scale.category10();
+    
+// add the tooltip area to the webpage
+var tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+// Fixed Axes to show several different years on the same scale
+  xScale.domain([-5., 105.]);
+  yScale.domain([-1000, 45000]);
+
+  // x-axis
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis)
+    .append("text")
+      .attr("class", "label")
+      .attr("x", width/2)
+      .attr("y", margin.bottom)
+      .style("text-anchor", "middle")
+      .text("6 year Graduation Rate for Four Year Institutions (%)");
+
+  // y-axis
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("class", "label")
+      .attr("transform", "rotate(-90)")
+      .attr("x", 0 - height/2)
+      .attr("y", 0 - margin.left)
+      .attr("dy", ".71em")
+      .style("text-anchor", "middle")
+      .text("Tuition per Year ($)");
+
+      // Add title to indicate the type of cirlces
+var title = svg.append("text")
+         .attr("x", (width / 4) - 24 )             
+         .attr("y", .93 * height)
+         .attr("text-anchor", "middle")  
+         .style("font-size", "16px"); 
+
+
+function draw_next_year () {
+        selector = document.getElementById("AcademicYear");
+        acadyear = selector.options[selector.selectedIndex].value;
+	run_all();
+}	
+
+function draw_next_radius () {
+        selector = document.getElementById("radiusOption");
+        radiusOpt = selector.options[selector.selectedIndex].value;
+	if ( radiusOpt == 'pell' ) {
+		pell = true;
+		enroll = false;
+	}
+	else if ( radiusOpt == 'enroll'	) {
+		enroll = true;
+		pell = false;
+	}
+	else {
+	        pell = false;
+		enroll = false;
+	}	
+	dots.attr("r", function(d) {
+	      if (pell)
+	          return Math.sqrt(d.grant01 / 500000.) + 3.5 ;
+	      else if (enroll)
+                  return Math.sqrt(d.fte_count / 1000.) + 3.5 ;
+	      else
+                  return 3.5;	      
+         })
+}	
+
+
+
+// This function runs the entire svg part of the page
+function run_all() {
+
+// load data
+d3.csv("delta_" + acadyear + ".csv", function(error, data) {
+  // load data into a variable
+  dataset = data;
+  draw_graph();
+})
+
+function draw_graph() {
+
+  // change string (from CSV) into number format
+  dataset.forEach(function(d) {
+    d.tuitionfee02_tf = +d.tuitionfee02_tf;
+    d.grad_rate_150_p4yr = +d.grad_rate_150_p4yr;
+  });
+  
+
+  // draw dots
+dots =  svg.selectAll(".dot")
+    .data(dataset,function(d) { 
+	return d.academicyear + d.instname;});
+
+    dots.enter().append("circle")
+      .attr("class", "dot")
+      .attr("r", function(d) {
+	      if (pell)
+	          return Math.sqrt(d.grant01 / 500000.) + 3.5 ;
+	      else if (enroll)
+                  return Math.sqrt(d.fte_count / 1000.) + 3.5 ;
+	      else
+                  return 3.5;	      
+      })
+      .attr("cx", xMap)
+      .attr("cy", yMap)
+      .style("fill", function(d) { return color(cValue(d));}) 
+      .on("mouseover", function(d) {
+          tooltip.transition()
+               .duration(200)
+               .style("opacity", .9);
+          tooltip.html(d.instname + "<br/> " + d.city
+	        + ", " + d.state)
+               .style("left", (d3.event.pageX + 5) + "px")
+               .style("top", (d3.event.pageY - 28) + "px");
+      })
+      .on("mouseout", function(d) {
+          tooltip.transition()
+               .duration(500)
+               .style("opacity", 0);
+       });
+       dots.exit().transition().duration(500).attr("r",0).remove();
+
+       title.text(function(d) {
+	      if (pell)
+	          return "Circle Size: Pell Grant Total "  + acadyear;
+	      else if (enroll)
+                  return "Circle Size: Total Enrollment "  + acadyear;
+	      else 
+	          return "" + acadyear;
+      })
+         
+  // draw legend
+  var legend = svg.selectAll(".legend")
+      .data(color.domain())
+    .enter().append("g")
+      .attr("class", "legend")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+  // draw legend colored rectangles
+  legend.append("rect")
+      .attr("x", width/4 - 18)
+      .attr("y", .75 * height - 9)
+      .attr("width", 18)
+      .attr("height", 18)
+      .style("fill", color);
+
+  // draw legend text
+  legend.append("text")
+      .attr("x", width/4 - 24)
+      .attr("y", .75 * height)
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text(function(d) { return d;})
+};
+
+}
+
+// run the entire plot as a function
+run_all();
+
+</script>
+</body>
+</html>
