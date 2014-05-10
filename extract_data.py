@@ -15,15 +15,19 @@ import argparse
 import string
 import os
 import csv
+from decimal import *
+
+getcontext().prec = 1
 
 # Read in the name for the input file and the output file from the command line
 parser = argparse.ArgumentParser()
 parser.add_argument("filein", help="Type the name of the input text file here")
-parser.add_argument("fileout", help="Type the name of the output file here")
+# parser.add_argument("fileout", help="Type the name of the output file here")
 parser.add_argument("yearin", help="Type the year for the data to collect here")
 args = parser.parse_args()
 yearin = args.yearin
-file_out = open(args.fileout,'w')
+out_name = "delta_" + args.yearin + ".csv"
+file_out = open(out_name,'w')
 
 cnt = 0
 with open(args.filein,'r') as input_file:
@@ -39,7 +43,6 @@ with open(args.filein,'r') as input_file:
         state = words[8].strip('"')
         zipcode = words[9].strip('"')
         insttype = words[12]
-        print insttype
         carnegie2000 = words[19]
         enrollment = words[44]
         pellgrants = words[94]
@@ -52,7 +55,8 @@ with open(args.filein,'r') as input_file:
             if cnt > 1 and tuition != ""  \
                        and gradrate_p4yr != "" \
                        and year == yearin \
-                       and float(enrollment) >= 1000. \
+                       and float(enrollment) >= 800. \
+                       and float(gradrate_p4yr) < .999 \
                        and int(insttype) <= 3 :
                 if int(insttype) == 1 :
                     insttype = "Public"
@@ -63,6 +67,7 @@ with open(args.filein,'r') as input_file:
                 else:
                     print "This should never occur, something is wrong"
                 gradrate = str(float(gradrate_p4yr)*100.)
+                enrollment = str(int(round(float(enrollment))))
                 file_out.write(year + "," + institution + "," + city + "," + state + "," + zipcode + "," + insttype + \
                    "," + carnegie2000 + "," + enrollment + "," + pellgrants + "," + tuition + "," + gradrate + "\n")
         except ValueError:
