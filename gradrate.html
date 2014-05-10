@@ -44,7 +44,6 @@ body {
 
 <form align="center">
 	<select id="AcademicYear">
-		<option value="2010">Academic Year:</option>
 		<option value="2002">2002</option>
 		<option value="2003">2003</option>
 		<option value="2004">2004</option>
@@ -57,17 +56,16 @@ body {
 	</select>
 	
         <select id="radiusOption">
-		<option value="default">Radius Size:</option>
-	        <option value="default">Constant Radius</option>
-	        <option value="pell">Total Pell Grants</option>
-	        <option value="enroll">Total Enrollment</option>
+	        <option value="pell">Radius: Total Pell Grants</option>
+	        <option value="enroll">Radius:Total Enrollment</option>
+	        <option value="default">Radius: Constant</option>
 	</select>
 </form>	
 
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <!--
-<script src="../../D3.d/d3/d3.min.js"></script>
+<script src="../D3.d/d3/d3.min.js"></script>
 -->
 
 <script>
@@ -223,13 +221,22 @@ dots =  svg.selectAll(".dot")
       .attr("cy", yMap)
       .style("fill", function(d) { return color(cValue(d));}) 
       .on("mouseover", function(d) {
-          tooltip.transition()
-               .duration(200)
-               .style("opacity", .9);
-          tooltip.html(d.instname + "<br/> " + d.city
-	        + ", " + d.state)
+	      if (pell) {    
+          tooltip.transition().duration(200).style("opacity", .9);
+          tooltip.html(d.instname + "<br/> " + "Total Pell Grants: $" + d.grant01)
                .style("left", (d3.event.pageX + 5) + "px")
                .style("top", (d3.event.pageY - 28) + "px");
+	       } else if (enroll) {
+          tooltip.transition().duration(200).style("opacity", .9);
+          tooltip.html(d.instname + "<br/> " + "Total Enrollment: " + d.fte_count)
+               .style("left", (d3.event.pageX + 5) + "px")
+               .style("top", (d3.event.pageY - 28) + "px");
+	       } else {
+          tooltip.transition().duration(200).style("opacity", .9);
+          tooltip.html(d.instname + "<br/> " + d.city + ", " + d.state)
+               .style("left", (d3.event.pageX + 5) + "px")
+               .style("top", (d3.event.pageY - 28) + "px");
+               }
       })
       .on("mouseout", function(d) {
           tooltip.transition()
