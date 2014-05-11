@@ -24,7 +24,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,University of Alaska Fairbanks,Fairbanks,AK,99775-748,Public,16,18586,9009460,3850,23.3466933868
 2004,Arizona State University at the Tempe Campus,Tempe,AZ,85287,Public,15,41617,30268000,3595,54.576057227
 2004,University of Arizona,Tucson,AZ,85721-006,Public,15,32835,18925000,3603,57.0558176101
-2004,DeVry University-Arizona,Phoenix,AZ,85021-299,Private For-Profit,54,1936,,10280,37.2693726937
 2004,Grand Canyon University,Phoenix,AZ,85017,Private For-Profit,21,2009,1172170,14500,44.8275862069
 2004,Northern Arizona University,Flagstaff,AZ,86011-413,Public,16,15032,11740782,3530,50.1688374337
 2004,University of Phoenix-Phoenix-Hohokam Campus,Phoenix,AZ,85040-195,Private For-Profit,55,11599,6533068,8760,9.09090909091
@@ -79,7 +78,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Chapman University,Orange,CA,92866,Private Not-For-Profit,21,9009,3081156,24590,65.234375
 2004,Concordia University,Irvine,CA,92612-329,Private Not-For-Profit,22,1576,858796,17990,51.0989010989
 2004,Claremont McKenna College,Claremont,CA,91711-640,Private Not-For-Profit,31,1137,390012,27700,90.8424908425
-2004,DeVry University-California,Pomona,CA,91768-264,Private For-Profit,32,6102,,10880,36.8776371308
 2004,Dominican University of California,San Rafael,CA,94901-229,Private Not-For-Profit,21,1405,882713,22650,50.0
 2004,Fresno Pacific University,Fresno,CA,93702-470,Private Not-For-Profit,21,1586,1543964,17592,64.9350649351
 2004,Golden Gate University-San Francisco,San Francisco,CA,94105-296,Private Not-For-Profit,55,2594,203003,11232,5.55555555556
@@ -89,7 +87,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Loma Linda University,Loma Linda,CA,92350,Private Not-For-Profit,16,4606,2725967,20800,33.7606837607
 2004,The Master's College and Seminary,Santa Clarita,CA,91321-120,Private Not-For-Profit,32,1248,797190,17200,60.8187134503
 2004,Loyola Marymount University,Los Angeles,CA,90045-265,Private Not-For-Profit,21,8013,3533736,23938,73.9086294416
-2004,Mills College,Oakland,CA,94613,Private Not-For-Profit,31,1138,,24441,65.3543307087
 2004,Mount St Mary's College,Los Angeles,CA,90049-159,Private Not-For-Profit,21,1770,2387477,20456,57.9310344828
 2004,Musicians Institute,Hollywood,CA,90028,Private For-Profit,56,812,812862,13600,31.2647045053
 2004,National University,La Jolla,CA,92037-101,Private Not-For-Profit,21,13148,2853762,8550,71.4285714286
@@ -114,10 +111,8 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Saint Marys College of California,Moraga,CA,94556,Private Not-For-Profit,21,3497,2227698,23775,69.982547993
 2004,Sonoma State University,Rohnert Park,CA,94928-360,Public,21,7377,4273039,3010,48.4811664642
 2004,Vanguard University of Southern California,Costa Mesa,CA,92626,Private Not-For-Profit,32,1723,1383531,16328,43.9130434783
-2004,University of Southern California,Los Angeles,CA,90089,Private Not-For-Profit,15,28753,,28692,82.1212121212
 2004,Westmont College,Santa Barbara,CA,93108-108,Private Not-For-Profit,31,1337,432950,24890,69.825436409
 2004,Whittier College,Whittier,CA,90608,Private Not-For-Profit,31,2184,1005925,24272,55.2631578947
-2004,Woodbury University,Burbank,CA,91510-784,Private Not-For-Profit,22,1122,,20855,56.7307692308
 2004,Adams State College,Alamosa,CO,81102,Public,21,4319,2773286,2482,36.6132723112
 2004,University of Colorado at Denver and Health Sciences Center,Denver,CO,80217-336,Public,16,10194,4323959,3551,38.8324873096
 2004,University of Colorado at Colorado Springs,Colorado Springs,CO,80933-715,Public,21,6468,4297373,3724,37.0078740157
@@ -136,7 +131,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,University of Northern Colorado,Greeley,CO,80639,Public,16,11552,5085377,3242,45.0346420323
 2004,Regis University,Denver,CO,80221-109,Private Not-For-Profit,21,7839,2310740,20900,60.5504587156
 2004,Colorado State University-Pueblo,Pueblo,CO,81001-490,Public,21,4379,4892578,2364,28.968903437
-2004,United States Air Force Academy,Usafa,CO,80840-500,Public,59,4149,,2500,81.3051146384
 2004,Western State College of Colorado,Gunnison,CO,81231,Public,31,2282,1593955,2564,31.2186978297
 2004,Albertus Magnus College,New Haven,CT,06511-118,Private Not-For-Profit,32,2116,961524,16228,45.5696202532
 2004,University of Bridgeport,Bridgeport,CT,06604-562,Private Not-For-Profit,16,2483,1273000,17924,53.6480686695
@@ -144,16 +138,13 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Connecticut College,New London,CT,06320,Private Not-For-Profit,31,1793,502000,37900,85.6812933025
 2004,University of Connecticut,Storrs,CT,06269,Public,15,23316,8331710,6800,65.5654383736
 2004,Eastern Connecticut State University,Willimantic,CT,06226,Public,21,4245,1952083,5045,40.5633802817
-2004,Fairfield University,Fairfield,CT,06824-519,Private Not-For-Profit,21,4168,,26585,80.4571428571
 2004,University of Hartford,West Hartford,CT,06117-159,Private Not-For-Profit,16,5935,2049354,22470,53.5423925668
 2004,University of New Haven,West Haven,CT,06516,Private Not-For-Profit,21,3441,1367138,20700,45.2941176471
-2004,Post University,Waterbury,CT,06723,Private For-Profit,32,957,,17500,32.3943661972
 2004,Quinnipiac University,Hamden,CT,06518,Private Not-For-Profit,21,6529,1229715,21120,66.6666666667
 2004,Sacred Heart University,Fairfield,CT,06825-100,Private Not-For-Profit,21,4403,1504469,20244,56.5527065527
 2004,Saint Joseph College,West Hartford,CT,06117-279,Private Not-For-Profit,21,1302,799000,20900,52.8169014085
 2004,Southern Connecticut State University,New Haven,CT,06515-135,Public,21,9120,4275897,5010,36.8616527391
 2004,Trinity College,Hartford,CT,06106-310,Private Not-For-Profit,31,2065,686111,30230,87.4263261297
-2004,United States Coast Guard Academy,New London,CT,06320-419,Public,59,983,,3000,69.696969697
 2004,Wesleyan University,Middletown,CT,06459,Private Not-For-Profit,31,3024,1031000,29998,92.0391061453
 2004,Western Connecticut State University,Danbury,CT,06810-686,Public,21,4752,1777360,5045,31.3880126183
 2004,Yale University,New Haven,CT,06520,Private Not-For-Profit,15,11315,1492000,28400,96.4478764479
@@ -170,7 +161,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Georgetown University,Washington,DC,20057,Private Not-For-Profit,15,12341,1840000,28209,92.9931972789
 2004,Howard University,Washington,DC,20059-000,Private Not-For-Profit,15,10029,70162160,10935,63.1028938907
 2004,Strayer University-Washington Campus,Washington,DC,20005,Private For-Profit,22,10960,22000,9396,5.59440559441
-2004,Trinity Washington University,Washington,DC,20017-109,Private Not-For-Profit,21,1093,,16380,43.9252336449
 2004,The Art Institute of Fort Lauderdale Inc,Fort Lauderdale,FL,33316-300,Private For-Profit,56,2610,4645293,15665,42.1052631579
 2004,Barry University,Miami,FL,33161-669,Private Not-For-Profit,21,7072,5683204,20545,38.9312977099
 2004,Bethune Cookman College,Daytona Beach,FL,32114-309,Private Not-For-Profit,32,2687,6124861,10106,38.5232744783
@@ -222,7 +212,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Clayton  State University,Morrow,GA,30260-028,Public,33,3869,5348377,2670,18.064516129
 2004,Columbus State University,Columbus,GA,31907-564,Public,21,5299,6030435,2676,27.0958083832
 2004,Covenant College,Lookout Mountain,GA,30750-416,Private Not-For-Profit,32,1230,817638,18155,63.5071090047
-2004,DeVry University-Georgia,Decatur,GA,30030-219,Private For-Profit,54,3931,,10280,28.990228013
 2004,South University-Savannah,Savannah,GA,31406,Private For-Profit,40,899,1871319,10210,27.7777777778
 2004,Emory University,Atlanta,GA,30322,Private Not-For-Profit,15,11113,2268303,27952,86.0687022901
 2004,Fort Valley State University,Fort Valley,GA,31030-431,Public,21,2237,4675940,2720,30.162412993
@@ -242,7 +231,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Paine College,Augusta,GA,30901-318,Private Not-For-Profit,31,903,2136910,9082,29.7297297297
 2004,Piedmont College,Demorest,GA,30535-001,Private Not-For-Profit,22,1601,859912,12500,44.0476190476
 2004,Reinhardt College,Waleska,GA,30183-298,Private Not-For-Profit,33,998,755151,11100,20.6896551724
-2004,Savannah College of Art and Design,Savannah,GA,31402-314,Private Not-For-Profit,56,5822,,19535,61.5618661258
 2004,Savannah State University,Savannah,GA,31404,Public,22,2478,5574826,2830,30.5295950156
 2004,Shorter College,Rome,GA,30165,Private Not-For-Profit,32,2383,1812318,11705,45.7489878543
 2004,Spelman College,Atlanta,GA,30314-439,Private Not-For-Profit,31,2013,2053062,14125,77.0297029703
@@ -297,7 +285,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Northern Illinois University,Dekalb,IL,60115-282,Public,15,21186,13508039,5853,51.2775017743
 2004,Northwestern University,Evanston,IL,60208,Private Not-For-Profit,15,15592,2257000,28524,92.1025104603
 2004,Northeastern Illinois University,Chicago,IL,60625-469,Public,21,7924,8097934,3165,15.1925078044
-2004,Olivet Nazarene University,Bourbonnais,IL,60914-227,Private Not-For-Profit,21,3007,,14980,53.0373831776
 2004,Quincy University,Quincy,IL,62301-269,Private Not-For-Profit,22,1104,845029,16850,55.1724137931
 2004,The Illinois Institute of Art,Chicago,IL,60654-159,Private For-Profit,56,2838,2476125,16485,52.1531100478
 2004,Robert Morris College,Chicago,IL,60605,Private Not-For-Profit,55,4865,12167683,13500,94.0092165899
@@ -309,7 +296,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Southern Illinois University Carbondale,Carbondale,IL,62901-451,Public,15,18697,16790884,5521,43.2156862745
 2004,Southern Illinois University Edwardsville,Edwardsville,IL,62026-100,Public,21,11143,7793519,4183,42.8267045455
 2004,Trinity Christian College,Palos Heights,IL,60463-092,Private Not-For-Profit,32,1123,715978,15640,61.8705035971
-2004,Trinity International University,Deerfield,IL,60015-128,Private Not-For-Profit,51,2049,,17150,52.466367713
 2004,Western Illinois University,Macomb,IL,61455,Public,21,11722,7882219,5402,54.2595769011
 2004,Wheaton College,Wheaton,IL,60187-559,Private Not-For-Profit,31,2757,940577,18500,84.4677137871
 2004,Anderson University,Anderson,IN,46012-349,Private Not-For-Profit,22,2274,1751000,17050,54.6816479401
@@ -323,7 +309,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Goshen College,Goshen,IN,46526-479,Private Not-For-Profit,31,856,517942,16650,69.0821256039
 2004,Grace College and Theological Seminary,Winona Lake,IN,46590,Private Not-For-Profit,32,1097,656403,14070,59.5555555556
 2004,Hanover College,Hanover,IN,47243-010,Private Not-For-Profit,31,992,516642,19300,70.5014749263
-2004,Huntington University,Huntington,IN,46750,Private Not-For-Profit,32,886,,16540,63.436123348
 2004,Indiana University-Purdue University-Fort Wayne,Fort Wayne,IN,46805-149,Public,21,8574,7256087,4597,21.1063829787
 2004,Indiana University-Purdue University-Indianapolis,Indianapolis,IN,46202-289,Public,16,21955,15323756,5702,23.0494872938
 2004,University of Indianapolis,Indianapolis,IN,46227-369,Private Not-For-Profit,21,3071,2151386,16720,53.8888888889
@@ -369,7 +354,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Loras College,Dubuque,IA,52004-017,Private Not-For-Profit,32,1642,1003172,18338,68.9750692521
 2004,Luther College,Decorah,IA,52101-104,Private Not-For-Profit,31,2527,1252840,21600,76.1061946903
 2004,Morningside College,Sioux City,IA,51106-175,Private Not-For-Profit,32,988,1027915,16350,51.8987341772
-2004,Mount Mercy College,Cedar Rapids,IA,52402-479,Private Not-For-Profit,32,1171,,16070,66.4974619289
 2004,University of Northern Iowa,Cedar Falls,IA,50614,Public,21,12055,7488437,4916,64.2280524723
 2004,Northwestern College,Orange City,IA,51041,Private Not-For-Profit,32,1248,1082201,15290,57.2602739726
 2004,Saint Ambrose University,Davenport,IA,52803-289,Private Not-For-Profit,21,2755,1625991,16650,59.3220338983
@@ -389,7 +373,7 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,MidAmerica Nazarene University,Olathe,KS,66062-189,Private Not-For-Profit,22,1679,1041217,12910,45.2755905512
 2004,Ottawa University,Ottawa,KS,66067-339,Private Not-For-Profit,32,1907,1677028,13060,31.6239316239
 2004,Pittsburg State University,Pittsburg,KS,66762,Public,21,5912,4874960,2962,47.1389645777
-2004,Southwestern College,Winfield,KS,67156-622,Private Not-For-Profit,32,1016,1042952.1875,14618,53.5714285714
+2004,Southwestern College,Winfield,KS,67156-622,Private Not-For-Profit,32,1016,1042952,14618,53.5714285714
 2004,Washburn University,Topeka,KS,66621-000,Public,21,5531,5047585,4112,65.0980392157
 2004,Wichita State University,Wichita,KS,67260-012,Public,16,10790,8637927,3507,37.3080397471
 2004,Asbury College,Wilmore,KY,40390-119,Private Not-For-Profit,32,1192,763700,16500,69.6696696697
@@ -409,7 +393,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Murray State University,Murray,KY,42071-331,Public,21,8444,6686678,3436,57.4152542373
 2004,Northern Kentucky University,Highland Heights,KY,41099,Public,21,11324,7407000,3744,42.3696682464
 2004,Pikeville College,Pikeville,KY,41501,Private Not-For-Profit,32,987,1306745,9900,38.3561643836
-2004,The Southern Baptist Theological Seminary,Louisville,KY,40280-000,Private Not-For-Profit,51,2337,,4600,35.2941176471
 2004,Sullivan University,Louisville,KY,40205-301,Private For-Profit,33,4040,6464080,11760,21.0995542348
 2004,Thomas More College,Crestview Hills,KY,41017-349,Private Not-For-Profit,32,1319,697084,15950,57.619047619
 2004,Transylvania University,Lexington,KY,40508-179,Private Not-For-Profit,31,1127,567175,17660,63.963963964
@@ -462,11 +445,9 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,St Mary's College of Maryland,Saint Mary's City,MD,20686-300,Public,31,1853,650466,8740,75.5287009063
 2004,Sojourner-Douglass College,Baltimore,MD,21205-189,Private Not-For-Profit,59,933,2395000,5590,26.0
 2004,Towson University,Towson,MD,21252-000,Public,21,14503,5444637,6226,60.2704108164
-2004,United States Naval Academy,Annapolis,MD,21402-500,Public,59,4335,,2500,86.2312444837
 2004,Villa Julie College,Stevenson,MD,21153-064,Private Not-For-Profit,32,2315,1120375,13693,57.7011494253
 2004,Washington College,Chestertown,MD,21620-143,Private Not-For-Profit,31,1394,311550,24800,62.5899280576
 2004,McDaniel College,Westminster,MD,21157,Private Not-For-Profit,31,2395,716000,23160,70.0906344411
-2004,American International College,Springfield,MA,01109,Private Not-For-Profit,21,1337,,17131,36.7256637168
 2004,Amherst College,Amherst,MA,01002-500,Private Not-For-Profit,31,1618,689146,29730,95.6818181818
 2004,Anna Maria College,Paxton,MA,01612-119,Private Not-For-Profit,21,835,356877,18995,57.2368421053
 2004,Assumption College,Worcester,MA,01609-129,Private Not-For-Profit,21,2454,601710,21165,77.969348659
@@ -519,9 +500,7 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Western New England College,Springfield,MA,01119-268,Private Not-For-Profit,21,3347,1068753,20824,57.6237623762
 2004,Westfield State College,Westfield,MA,01086-163,Public,21,4235,1834940,4557,53.0759951749
 2004,Wheaton College,Norton,MA,02766,Private Not-For-Profit,31,1553,681510,29020,72.4137931034
-2004,Wheelock College,Boston,MA,02215-417,Private Not-For-Profit,21,820,,20400,52.9411764706
 2004,Williams College,Williamstown,MA,01267,Private Not-For-Profit,31,2072,613900,28090,96.0893854749
-2004,Worcester Polytechnic Institute,Worcester,MA,01609,Private Not-For-Profit,16,3409,,28420,79.0935672515
 2004,Worcester State College,Worcester,MA,01602-259,Public,21,4070,2113755,4123,43.1640625
 2004,Adrian College,Adrian,MI,49221-257,Private Not-For-Profit,31,1002,838733,16570,47.1264367816
 2004,Albion College,Albion,MI,49224,Private Not-For-Profit,31,1716,655802,21948,70.5357142857
@@ -529,7 +508,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Andrews University,Berrien Springs,MI,49104,Private Not-For-Profit,16,2460,1719095,14570,38.2978723404
 2004,Aquinas College,Grand Rapids,MI,49506-179,Private Not-For-Profit,22,1921,1052858,16400,51.1560693642
 2004,Baker College of Flint,Flint,MI,48507-998,Private Not-For-Profit,33,20787,35097748,5940,38.4882243998
-2004,Calvin College,Grand Rapids,MI,49546,Private Not-For-Profit,32,4185,,16775,75.8726899384
 2004,Central Michigan University,Mount Pleasant,MI,48859,Public,16,22407,12061208,5218,55.4058192956
 2004,College for Creative Studies,Detroit,MI,48202,Private Not-For-Profit,56,1117,881330,19798,53.5135135135
 2004,Davenport University,Grand Rapids,MI,49512,Private Not-For-Profit,55,3850,16969924,8236,24.1935483871
@@ -579,9 +557,7 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Minnesota State University-Moorhead,Moorhead,MN,56563,Public,21,6903,5275482,4254,42.1686746988
 2004,North Central University,Minneapolis,MN,55404-139,Private Not-For-Profit,51,1160,1080275,10783,42.6086956522
 2004,Northwestern College,Saint Paul,MN,55113-159,Private Not-For-Profit,32,2222,1704144,17400,57.4803149606
-2004,College of Saint Benedict,Saint Joseph,MN,56374,Private Not-For-Profit,31,2020,,20685,81.976744186
 2004,Saint Cloud State University,Saint Cloud,MN,56301-449,Public,21,13906,7074277,4550,43.7146092865
-2004,Saint Johns University,Collegeville,MN,56321,Private Not-For-Profit,31,1995,,20685,81.4988290398
 2004,Saint Mary's University of Minnesota,Winona,MN,55987-139,Private Not-For-Profit,21,3049,738346,16335,57.8947368421
 2004,St. Olaf College,Northfield,MN,55057-109,Private Not-For-Profit,31,2955,1060220,23650,83.9947089947
 2004,Crown College,Saint Bonifacius,MN,55375-900,Private Not-For-Profit,32,877,979004,12768,54.7169811321
@@ -594,7 +570,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Belhaven College,Jackson,MS,39202,Private Not-For-Profit,32,2285,2487560,12810,39.2857142857
 2004,Delta State University,Cleveland,MS,38733,Public,21,3207,3890643,3348,46.1358313817
 2004,Jackson State University,Jackson,MS,39217,Public,16,6720,14922045,3632,39.6674584323
-2004,Millsaps College,Jackson,MS,39210-000,Private Not-For-Profit,31,1146,,18414,68.5314685315
 2004,University of Mississippi Main Campus,University,MS,38677-184,Public,15,12613,7535825,3916,54.403567447
 2004,Mississippi University for Women,Columbus,MS,39701,Public,22,1768,2862560,3298,36.8686868687
 2004,Mississippi Valley State University,Itta Bena,MS,38941-140,Public,32,3030,9681599,3411,40.4984423676
@@ -603,12 +578,10 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Rust College,Holly Springs,MS,38635,Private Not-For-Profit,32,870,2149064,8400,29.5774647887
 2004,University of Southern Mississippi,Hattiesburg,MS,39406-000,Public,15,12739,15625769,3874,48.0194017785
 2004,Tougaloo College,Tougaloo,MS,39174,Private Not-For-Profit,31,905,2194662,8195,49.4949494949
-2004,William Carey College,Hattiesburg,MS,39401-549,Private Not-For-Profit,21,2208,,7800,45.3488372093
 2004,Avila University,Kansas City,MO,64145-169,Private Not-For-Profit,21,1340,889305,15000,40.7079646018
 2004,Central Methodist University-College of Liberal Arts & Sciences,Fayette,MO,65248-119,Private Not-For-Profit,32,1467,1343551,13760,39.4495412844
 2004,Central Missouri State University,Warrensburg,MO,64093,Public,21,8627,7013943,3984,51.7831669044
 2004,Columbia College,Columbia,MO,65216,Private Not-For-Profit,32,7782,8286596,11362,50.4424778761
-2004,DeVry University-Missouri,Kansas City,MO,64131-362,Private For-Profit,32,1741,,10280,32.8313253012
 2004,Drury University,Springfield,MO,65802-379,Private Not-For-Profit,22,3520,4407733,13385,66.0714285714
 2004,Evangel University,Springfield,MO,65802,Private Not-For-Profit,32,1781,1319638,11325,53.25
 2004,Fontbonne University,Saint Louis,MO,63105-309,Private Not-For-Profit,21,2000,1434204,14520,57.6923076923
@@ -661,7 +634,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,University of Nevada-Reno,Reno,NV,89557,Public,15,12632,4246985,2830,48.6507936508
 2004,Colby-Sawyer College,New London,NH,03257-783,Private Not-For-Profit,32,964,490606,22200,60.0
 2004,Daniel Webster College,Nashua,NH,03063-130,Private Not-For-Profit,32,988,466493,20100,37.5
-2004,Dartmouth College,Hanover,NH,03755-352,Private Not-For-Profit,16,5595,,29145,95.0135992747
 2004,Franklin Pierce College,Rindge,NH,03461-006,Private Not-For-Profit,31,2390,1678325,21380,42.3404255319
 2004,Hesser College,Manchester,NH,03103-996,Private For-Profit,40,2437,2650879,11290,67.6470588235
 2004,New England College,Henniker,NH,03242,Private Not-For-Profit,32,997,546860,21120,51.5337423313
@@ -673,7 +645,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Caldwell College,Caldwell,NJ,07006-619,Private Not-For-Profit,32,1575,1132837,17060,57.5163398693
 2004,Centenary College,Hackettstown,NJ,07840,Private Not-For-Profit,32,1787,887562,17820,32.4561403509
 2004,Drew University,Madison,NJ,07940,Private Not-For-Profit,31,2212,674000,27906,72.9970326409
-2004,Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,07666,Private Not-For-Profit,21,7533,,20334,46.683046683
 2004,Felician College,Lodi,NJ,07644,Private Not-For-Profit,32,1190,1097297,15600,36.4238410596
 2004,Georgian Court University,Lakewood,NJ,08701-269,Private Not-For-Profit,21,1989,1235604,16272,63.4328358209
 2004,Rowan University,Glassboro,NJ,08028,Public,21,8052,5305535,7258,62.7012522361
@@ -684,7 +655,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,New Jersey Institute of Technology,Newark,NJ,07102,Public,16,6744,4108000,8500,52.9307282416
 2004,Princeton University,Princeton,NJ,08544-007,Private Not-For-Profit,15,6688,929000,28540,96.6580976864
 2004,Ramapo College of New Jersey,Mahwah,NJ,07430-168,Public,32,4641,2510000,7411,62.0762711864
-2004,Rider University,Lawrenceville,NJ,08648-309,Private Not-For-Profit,21,4457,,21050,60.8745684695
 2004,Rutgers University-Camden,Camden,NJ,08102,Public,21,43792,29702000,7756,68.6322686323
 2004,Saint Peters College,Jersey City,NJ,07306-599,Private Not-For-Profit,21,2314,2552670,18592,45.7286432161
 2004,Seton Hall University,South Orange,NJ,07079-269,Private Not-For-Profit,16,7866,3069000,21580,57.1662571663
@@ -705,7 +675,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Alfred University,Alfred,NY,14802-120,Private Not-For-Profit,21,2229,1947368,20698,68.7725631769
 2004,Bard College,Annandale-On-Hudson,NY,12504-500,Private Not-For-Profit,31,1776,746588,28808,68.9349112426
 2004,Barnard College,New York,NY,10027-659,Private Not-For-Profit,31,2251,1260626,26528,89.2393320965
-2004,Boricua College,New York,NY,10032-156,Private Not-For-Profit,33,1264,,8100,33.3333333333
 2004,Briarcliffe College,Bethpage,NY,11714-354,Private For-Profit,40,2504,4679720,13320,40.0
 2004,Canisius College,Buffalo,NY,14208-109,Private Not-For-Profit,21,4327,2330911,20193,69.9310344828
 2004,Cazenovia College,Cazenovia,NY,13035,Private Not-For-Profit,33,879,984089,17080,56.7010309278
@@ -724,7 +693,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Elmira College,Elmira,NY,14901,Private Not-For-Profit,32,1476,941098,25740,58.6776859504
 2004,Five Towns College,Dix Hills,NY,11746-587,Private For-Profit,33,1098,1037857,12620,36.8421052632
 2004,Fordham University,Bronx,NY,10458,Private Not-For-Profit,15,12936,5781476,24647,75.6707317073
-2004,Hamilton College,Clinton,NY,13323,Private Not-For-Profit,31,1784,,30200,85.9913793103
 2004,Hartwick College,Oneonta,NY,13820-402,Private Not-For-Profit,31,1433,1161566,27800,54.0909090909
 2004,Hilbert College,Hamburg,NY,14075-159,Private Not-For-Profit,32,855,1028155,13500,40.4255319149
 2004,Hobart William Smith Colleges,Geneva,NY,14456,Private Not-For-Profit,31,1869,1026681,28948,77.6639344262
@@ -748,7 +716,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Mount Saint Mary College,Newburgh,NY,12550,Private Not-For-Profit,21,2035,1559351,14290,51.9736842105
 2004,College of Mount Saint Vincent,Bronx,NY,10471-109,Private Not-For-Profit,22,1328,1609070,19000,57.1428571429
 2004,Nazareth College of Rochester,Rochester,NY,14618-379,Private Not-For-Profit,21,2472,1476622,17524,73.8317757009
-2004,The College of New Rochelle,New Rochelle,NY,10805-233,Private Not-For-Profit,21,5351,,14650,36.0328638498
 2004,The New School,New York,NY,10011,Private Not-For-Profit,16,6870,2971177,25840,61.4503816794
 2004,New York University,New York,NY,10012-109,Private Not-For-Profit,15,32299,10070777,28496,80.0353982301
 2004,Niagara University,Niagara University,NY,14109,Private Not-For-Profit,21,3273,2009239,17380,58.1180811808
@@ -759,7 +726,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Pratt Institute-Main,Brooklyn,NY,11205,Private Not-For-Profit,56,4204,2634994,25098,55.5066079295
 2004,Rensselaer Polytechnic Institute,Troy,NY,12180-359,Private Not-For-Profit,15,6710,2754000,28496,80.6678383128
 2004,Roberts Wesleyan College,Rochester,NY,14624,Private Not-For-Profit,21,1590,1212969,16752,59.7156398104
-2004,Rochester Institute of Technology,Rochester,NY,14623-560,Private Not-For-Profit,21,12863,,21384,59.3858632677
 2004,University of Rochester,Rochester,NY,14627-001,Private Not-For-Profit,15,7665,4050000,27573,80.790960452
 2004,Russell Sage College,Troy,NY,12180,Private Not-For-Profit,32,2239,1536571,19945,62.962962963
 2004,Saint Bonaventure University,Saint Bonaventure,NY,14778,Private Not-For-Profit,21,2585,1330828,17925,67.0774647887
@@ -798,8 +764,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Touro College,New York,NY,10010,Private Not-For-Profit,21,13990,16818000,10200,46.8401486989
 2004,Union College,Schenectady,NY,12308-231,Private Not-For-Profit,31,2423,890944,28928,88.3763837638
 2004,United Talmudical Seminary,Brooklyn,NY,11211,Private Not-For-Profit,51,1678,5469050,6000,52.9113924051
-2004,United States Merchant Marine Academy,Kings Point,NY,11024-169,Public,59,952,,2900,72.6141078838
-2004,United States Military Academy,West  Point,NY,10996-210,Public,59,4209,,0,84.0604026846
 2004,Utica College,Utica,NY,13502-489,Private Not-For-Profit,32,2161,2545471,20270,53.9215686275
 2004,Vassar College,Poughkeepsie,NY,12604,Private Not-For-Profit,31,2414,732969,29540,86.4217252396
 2004,School of Visual Arts,New York,NY,10010,Private For-Profit,56,3253,2530839,18700,60.358056266
@@ -819,7 +783,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Gardner-Webb University,Boiling Springs,NC,28017,Private Not-For-Profit,21,3042,2319689,14235,48.25
 2004,Greensboro College,Greensboro,NC,27401-187,Private Not-For-Profit,31,1018,973395,15720,43.9790575916
 2004,Guilford College,Greensboro,NC,27410-410,Private Not-For-Profit,31,1878,1795000,19020,67.7215189873
-2004,High Point University,High Point,NC,27262-359,Private Not-For-Profit,32,2655,,14710,46.9957081545
 2004,Johnson C Smith University,Charlotte,NC,28216,Private Not-For-Profit,32,1428,3086605,13062,41.1642411642
 2004,Lees-McRae College,Banner Elk,NC,28604-012,Private Not-For-Profit,31,916,737191,14500,38.8157894737
 2004,Lenoir-Rhyne College,Hickory,NC,28603,Private Not-For-Profit,32,1378,1032774,16450,47.9400749064
@@ -827,7 +790,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Mars Hill College,Mars Hill,NC,28754,Private Not-For-Profit,32,1203,1441323,15458,39.6103896104
 2004,Meredith College,Raleigh,NC,27607-529,Private Not-For-Profit,21,1804,1153239,18065,67.9292929293
 2004,Methodist College,Fayetteville,NC,28311-142,Private Not-For-Profit,32,1918,1713325,15810,30.504587156
-2004,Montreat College,Montreat,NC,28757-126,Private Not-For-Profit,55,1005,,14120,47.572815534
 2004,Mount Olive College,Mount Olive,NC,28365-091,Private Not-For-Profit,32,2041,1870405,10560,29.4520547945
 2004,North Carolina A & T State University,Greensboro,NC,27411,Public,21,9107,12735939,2722,42.532942899
 2004,University of North Carolina at Asheville,Asheville,NC,28804-851,Public,31,3018,2137032,3031,51.6877637131
@@ -844,10 +806,8 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Saint Augustines College,Raleigh,NC,27610-229,Private Not-For-Profit,31,1582,3500526,9648,37.1237458194
 2004,Salem College,Winston Salem,NC,27101,Private Not-For-Profit,31,878,1028124,15725,50.5813953488
 2004,Shaw University,Raleigh,NC,27601,Private Not-For-Profit,32,2394,5266780,9178,30.4461942257
-2004,Southeastern Baptist Theological Seminary,Wake Forest,NC,27588-188,Private Not-For-Profit,51,1579,,3720,29.4117647059
 2004,Wake Forest University,Winston Salem,NC,27106,Private Not-For-Profit,16,6275,854687,26490,85.8006042296
 2004,Warren Wilson College,Swannanoa,NC,28778-209,Private Not-For-Profit,22,842,460972,16674,46.0784313725
-2004,Wingate University,Wingate,NC,28174-015,Private Not-For-Profit,32,1398,,15200,45.4212454212
 2004,Winston-Salem State University,Winston-Salem,NC,27110-000,Public,32,3673,6564861,2394,43.7022900763
 2004,Western Carolina University,Cullowhee,NC,28723-964,Public,21,6434,4515308,2806,45.9927140255
 2004,Dickinson State University,Dickinson,ND,58601-489,Public,32,2023,2394056,3138,23.4159779614
@@ -872,7 +832,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,University of Dayton,Dayton,OH,45469,Private Not-For-Profit,16,9017,2310000,18960,74.1071428571
 2004,Defiance College,Defiance,OH,43512,Private Not-For-Profit,32,848,685468,17290,48.9010989011
 2004,Denison University,Granville,OH,43023-071,Private Not-For-Profit,31,2211,720067,25760,76.5451664025
-2004,DeVry University-Ohio,Columbus,OH,43209-270,Private For-Profit,32,2752,,10280,39.3238434164
 2004,The University of Findlay,Findlay,OH,45840-369,Private Not-For-Profit,21,3659,2088651,19952,52.8998242531
 2004,Franklin University,Columbus,OH,43215-539,Private Not-For-Profit,55,4096,3191000,6944,27.4193548387
 2004,Heidelberg College,Tiffin,OH,44883-246,Private Not-For-Profit,21,1126,992266,13930,60.3448275862
@@ -922,7 +881,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Oklahoma Christian University,Edmond,OK,73013-110,Private Not-For-Profit,32,1784,1668000,13090,39.598540146
 2004,Oklahoma Panhandle State University,Goodwell,OK,73939-043,Public,32,1030,1291501,2519,31.0344827586
 2004,Oklahoma State University-Main Campus,Stillwater,OK,74078,Public,15,20590,13676017,3748,57.5077399381
-2004,Oklahoma Baptist University,Shawnee,OK,74804,Private Not-For-Profit,32,1612,,11580,52.9284164859
 2004,Oklahoma City University,Oklahoma City,OK,73106-140,Private Not-For-Profit,21,3225,947147,14094,55.6135770235
 2004,University of Oklahoma Norman Campus,Norman,OK,73019-307,Public,15,23013,12800000,3741,56.2261753494
 2004,Oral Roberts University,Tulsa,OK,74171,Private Not-For-Profit,21,3667,3047506,13970,53.6507936508
@@ -939,9 +897,7 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Oregon Institute of Technology,Klamath Falls,OR,97601-880,Public,54,2525,2975294,4443,41.7763157895
 2004,Oregon State University,Corvallis,OR,97331,Public,15,17650,11800215,4869,59.847465231
 2004,University of Oregon,Eugene,OR,97403,Public,15,18416,11132969,4914,62.1527777778
-2004,Pacific University,Forest Grove,OR,97116,Private Not-For-Profit,21,2236,,19925,65.0406504065
 2004,Portland State University,Portland,OR,97201,Public,16,16759,15488256,4278,33.875
-2004,University of Portland,Portland,OR,97203-579,Private Not-For-Profit,21,2956,,22620,71.6887417219
 2004,Reed College,Portland,OR,97202-819,Private Not-For-Profit,31,1295,637027,29200,69.8224852071
 2004,Southern Oregon University,Ashland,OR,97520,Public,21,4582,4581678,4153,35.8208955224
 2004,Willamette University,Salem,OR,97301,Private Not-For-Profit,31,2530,1089744,25432,71.4285714286
@@ -961,7 +917,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Carlow University,Pittsburgh,PA,15213-316,Private Not-For-Profit,21,1542,1828721,15264,41.1042944785
 2004,Carnegie Mellon University,Pittsburgh,PA,15213-389,Private Not-For-Profit,15,8841,1847810,28986,84.7275518035
 2004,Cedar Crest College,Allentown,PA,18104-619,Private Not-For-Profit,32,1228,1337831,20896,56.6844919786
-2004,Chatham College,Pittsburgh,PA,15232,Private Not-For-Profit,31,929,,20552,53.5211267606
 2004,Chestnut Hill College,Philadelphia,PA,19118-269,Private Not-For-Profit,21,1050,788753,19050,49.4736842105
 2004,Cheyney University of Pennsylvania,Cheyney,PA,19319-020,Public,21,1367,3094412,5403,31.914893617
 2004,Clarion University of Pennsylvania,Clarion,PA,16214,Public,21,5884,5243063,5998,50.1298701299
@@ -977,7 +932,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Gannon University,Erie,PA,16541,Private Not-For-Profit,21,2868,2133000,16670,64.7160068847
 2004,Geneva College,Beaver Falls,PA,15010-359,Private Not-For-Profit,22,1965,1654594,15480,54.7692307692
 2004,Gettysburg College,Gettysburg,PA,17325-148,Private Not-For-Profit,31,2400,724613,28424,77.2292993631
-2004,Grove City College,Grove City,PA,16127-210,Private Not-For-Profit,32,2293,,9376,80.38585209
 2004,Gwynedd Mercy College,Gwynedd Valley,PA,19437-090,Private Not-For-Profit,22,1805,929434,16700,78.6666666667
 2004,Haverford College,Haverford,PA,19041-139,Private Not-For-Profit,31,1163,338097,28880,90.6832298137
 2004,Holy Family University,Philadelphia,PA,19114-200,Private Not-For-Profit,21,1909,1076247,15490,82.0895522388
@@ -989,7 +943,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Kutztown University of Pennsylvania,Kutztown,PA,19530-073,Public,21,8069,4566319,5775,50.2470007057
 2004,La Roche College,Pittsburgh,PA,15237-589,Private Not-For-Profit,21,1472,930000,15620,51.9607843137
 2004,La Salle University,Philadelphia,PA,19141-119,Private Not-For-Profit,21,4538,2554000,22960,69.532428356
-2004,Lafayette College,Easton,PA,18042-176,Private Not-For-Profit,31,2242,,27328,86.432160804
 2004,Lebanon Valley College,Annville,PA,17003-140,Private Not-For-Profit,22,1676,706062,22510,67.0616113744
 2004,Lehigh University,Bethlehem,PA,18015,Private Not-For-Profit,15,5992,1343000,27430,84.1726618705
 2004,Lincoln University of Pennsylvania,Lincoln University,PA,19352-099,Public,21,1826,2997960,6952,44.4444444444
@@ -1038,7 +991,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,York College Pennsylvania,York,PA,17405-719,Private Not-For-Profit,22,4749,1923340,8550,64.0569395018
 2004,Brown University,Providence,RI,02912,Private Not-For-Profit,15,7649,1872000,29846,96.1185603387
 2004,Bryant University,Smithfield,RI,02917-128,Private Not-For-Profit,21,3051,1007000,22458,67.6943699732
-2004,Johnson & Wales University,Providence,RI,02903-370,Private Not-For-Profit,21,15052,,16188,68.2710576314
 2004,Providence College,Providence,RI,02918,Private Not-For-Profit,21,4358,816631,22104,82.9979879276
 2004,Rhode Island College,Providence,RI,02908,Public,21,6679,4366451,3995,42.5555555556
 2004,University of Rhode Island,Kingston,RI,02881,Public,15,12473,5861675,6202,57.1639586411
@@ -1070,14 +1022,13 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Coastal Carolina University,Conway,SC,29526,Public,31,5683,4016414,5270,39.7660818713
 2004,South Carolina State University,Orangeburg,SC,29117-000,Public,16,3868,7026934,8095,52.7740189445
 2004,University of South Carolina-Upstate,Spartanburg,SC,29303-499,Public,32,3869,4490987,5510,41.1214953271
-2004,Voorhees College,Denmark,SC,29042,Private Not-For-Profit,32,853,,6460,30.7692307692
 2004,Winthrop University,Rock Hill,SC,29733,Public,21,5539,4241769,6652,56.6585956416
 2004,Wofford College,Spartanburg,SC,29303-366,Private Not-For-Profit,31,1148,507931,20610,79.5302013423
 2004,Augustana College,Sioux Falls,SD,57197-000,Private Not-For-Profit,32,1749,1294484,16972,65.2605459057
 2004,Black Hills State University,Spearfish,SD,57799-950,Public,32,3221,3472469,4548,25.4428341385
 2004,Dakota State University,Madison,SD,57042-179,Public,32,1679,1500371,4379,47.2081218274
 2004,SI TANKA UNIVERSITY-HURON CAMPUS,HURON,SD,57350-279,Public,22,1371,1571978,8550,11.4285714286
-2004,Mount Marty College,Yankton,SD,57078-372,Private Not-For-Profit,22,953,1169781.125,14186,51.5873015873
+2004,Mount Marty College,Yankton,SD,57078-372,Private Not-For-Profit,22,953,1169781,14186,51.5873015873
 2004,National American University-Rapid City,Rapid City,SD,57701-369,Private For-Profit,33,995,1083326,10740,47.8260869565
 2004,Northern State University,Aberdeen,SD,57401-719,Public,21,2212,2076839,4207,49.8622589532
 2004,Oglala Lakota College,Kyle,SD,57752-049,Public,60,1036,2613583,1796,17.2413793103
@@ -1091,7 +1042,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Carson-Newman College,Jefferson City,TN,37760,Private Not-For-Profit,21,1967,1976748,13620,62.7962085308
 2004,Christian Brothers University,Memphis,TN,38104,Private Not-For-Profit,22,1522,1377507,17190,59.7359735974
 2004,Cumberland University,Lebanon,TN,37087,Private Not-For-Profit,22,1043,1000131,12230,40.4255319149
-2004,Lipscomb University,Nashville,TN,37204-395,Private Not-For-Profit,22,2396,,12600,57.5819672131
 2004,East Tennessee State University,Johnson City,TN,37614-000,Public,16,10061,8922149,3839,38.0204778157
 2004,Fisk University,Nashville,TN,37208-450,Private Not-For-Profit,31,854,1432679,11535,63.8392857143
 2004,Freed-Hardeman University,Henderson,TN,38340-239,Private Not-For-Profit,21,1685,1319102,11046,50.2793296089
@@ -1104,7 +1054,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Middle Tennessee State University,Murfreesboro,TN,37132,Public,16,19018,13884991,3910,39.8834304746
 2004,Milligan College,Milligan College,TN,37682,Private Not-For-Profit,22,805,563682,15260,52.1327014218
 2004,Rhodes College,Memphis,TN,38112-169,Private Not-For-Profit,31,1544,407825,22938,82.5065274151
-2004,Sewanee:  The University of the South,Sewanee,TN,37383-100,Private Not-For-Profit,31,1466,,24135,78.5340314136
 2004,Southern Adventist University,Collegedale,TN,37315-037,Private Not-For-Profit,32,2051,1526829,12800,59.7590361446
 2004,The University of Tennessee,Knoxville,TN,37996,Public,15,37186,21265580,4450,48.3577235772
 2004,Tennessee State University,Nashville,TN,37209-156,Public,16,7523,11175266,3788,44.6791226645
@@ -1112,16 +1061,13 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Trevecca Nazarene University,Nashville,TN,37210,Private Not-For-Profit,21,1674,982040,11960,39.0374331551
 2004,Tusculum College,Greeneville,TN,37743,Private Not-For-Profit,22,2122,1943130,14160,45.5128205128
 2004,Union University,Jackson,TN,38305-369,Private Not-For-Profit,22,2445,1055239,14450,58.6374695864
-2004,Vanderbilt University,Nashville,TN,37240,Private Not-For-Profit,15,10831,,28440,86.2138533961
 2004,Abilene Christian University,Abilene,TX,79699,Private Not-For-Profit,21,4342,2819730,13290,53.9007092199
-2004,Angelo State University,San Angelo,TX,76909,Public,21,5247,,2930,34.7826086957
 2004,Austin College,Sherman,TX,75090-440,Private Not-For-Profit,31,1322,761322,17900,74.0634005764
 2004,Baylor University,Waco,TX,76798,Private Not-For-Profit,16,13408,5467000,18430,71.939993181
 2004,Concordia University at Austin,Austin,TX,78705-279,Private Not-For-Profit,32,892,669016,15410,31.4960629921
 2004,Texas A & M University-Corpus Christi,Corpus Christi,TX,78412-550,Public,21,6237,6323946,3252,44.4237918216
 2004,Dallas Baptist University,Dallas,TX,75211-929,Private Not-For-Profit,21,3081,2064261,11010,48.2071713147
 2004,University of Dallas,Irving,TX,75062-473,Private Not-For-Profit,31,2121,666028,18104,74.5704467354
-2004,DeVry University-Texas,Irving,TX,75063-243,Private For-Profit,54,2254,,10250,24.1379310345
 2004,East Texas Baptist University,Marshall,TX,75670-149,Private Not-For-Profit,32,1257,1538052,10290,45.1492537313
 2004,Texas A & M University-Commerce,Commerce,TX,75429-301,Public,16,5888,7380777,3624,37.641723356
 2004,Hardin-Simmons University,Abilene,TX,79698,Private Not-For-Profit,21,2054,1605691,12175,48.4261501211
@@ -1142,7 +1088,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Prairie View A & M University,Prairie View,TX,77446,Public,21,6742,9686646,3592,45.5304928989
 2004,Rice University,Houston,TX,77005,Private Not-For-Profit,15,4760,859391,18620,91.4330218069
 2004,Saint Edward's University,Austin,TX,78704,Private Not-For-Profit,22,3324,2740662,14710,52.0435967302
-2004,University of St Thomas,Houston,TX,77006-469,Private Not-For-Profit,21,2870,,15112,50.2164502165
 2004,Sam Houston State University,Huntsville,TX,77341,Public,21,11457,8557818,3076,40.105890139
 2004,St Marys University,San Antonio,TX,78228-857,Private Not-For-Profit,21,3636,2895892,16492,56.5130260521
 2004,Southern Methodist University,Dallas,TX,75275-022,Private Not-For-Profit,15,9214,2763000,23588,71.2863705972
@@ -1195,7 +1140,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Liberty University,Lynchburg,VA,24502,Private Not-For-Profit,21,7722,7833025,12020,44.8919449902
 2004,Longwood University,Farmville,VA,23909,Public,21,3854,1607762,5877,63.6699507389
 2004,Lynchburg College,Lynchburg,VA,24501-319,Private Not-For-Profit,21,1856,985622,21515,60.2771362587
-2004,Mary Baldwin College,Staunton,VA,24401,Private Not-For-Profit,22,1404,,19414,42.5438596491
 2004,University of Mary Washington,Fredericksburg,VA,22401-530,Public,22,4100,936281,4688,74.2610837438
 2004,Marymount University,Arlington,VA,22207-429,Private Not-For-Profit,21,2849,1288046,16438,52.6717557252
 2004,Norfolk State University,Norfolk,VA,23504-800,Public,21,5812,9002460,3840,27.2183449651
@@ -1204,7 +1148,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Randolph-Macon College,Ashland,VA,23005-550,Private Not-For-Profit,31,1097,386915,21160,57.6687116564
 2004,University of Richmond,Richmond,VA,23173,Private Not-For-Profit,31,3896,497707,24170,85.3856562923
 2004,Roanoke College,Salem,VA,24153-379,Private Not-For-Profit,31,1822,858285,20885,61.2676056338
-2004,Shenandoah University,Winchester,VA,22601-519,Private Not-For-Profit,21,2327,,18390,45.4861111111
 2004,The University of Virginia's College at Wise,Wise,VA,24293-440,Public,31,1500,1887583,4530,42.7609427609
 2004,Virginia Intermont College,Bristol,VA,24201,Private Not-For-Profit,32,1028,1139843,14400,38.5321100917
 2004,Virginia Polytechnic Institute and State University,Blacksburg,VA,24061-013,Public,15,25902,7413813,5095,74.3550502842
@@ -1221,7 +1164,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,Gonzaga University,Spokane,WA,99258-000,Private Not-For-Profit,21,4843,2159574,20798,75.3108348135
 2004,Heritage University,Toppenish,WA,98948,Private Not-For-Profit,21,978,1544102,6755,33.3333333333
 2004,Northwest University,Kirkland,WA,98083-057,Private Not-For-Profit,32,1101,717948,13474,42.3611111111
-2004,Pacific Lutheran University,Tacoma,WA,98447-000,Private Not-For-Profit,21,3244,,19610,63.9570552147
 2004,University of Puget Sound,Tacoma,WA,98416,Private Not-For-Profit,31,2677,905000,25360,74.4117647059
 2004,Saint Martin's University,Lacey,WA,98503-129,Private Not-For-Profit,21,1105,947552,17890,38.9473684211
 2004,Seattle Pacific University,Seattle,WA,98119-199,Private Not-For-Profit,21,3208,1386000,19143,60.6529209622
@@ -1325,7 +1267,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2004,University of Phoenix-Louisiana Campus,Metairie,LA,70001-208,Private For-Profit,-3,2133,2690828,8160,9.59595959596
 2004,University of Phoenix-Metro Detroit Campus,Troy,MI,48098-262,Private For-Profit,-3,4235,3390205,10110,7.10659898477
 2004,The Art Institute of Phoenix,Phoenix,AZ,85021-285,Private For-Profit,40,1112,1533232,21450,44.4444444444
-2004,DeVry Institute of Technology & Keller Graduate School of Management-New York,Long Island City,NY,11101-305,Private For-Profit,-3,1621,,11390,25.6578947368
 2004,University of Phoenix-Seattle Campus,Seattle,WA,98188-750,Private For-Profit,-3,1853,713814,9900,3.7037037037
 2004,University of Phoenix-Central Florida Campus,Maitland,FL,32751-705,Private For-Profit,-3,7633,5143409,8850,8.14977973568
 2004,University of Phoenix-Oregon Campus,Tigard,OR,97223-836,Private For-Profit,-3,1629,1092742,9540,4.23728813559

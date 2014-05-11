@@ -68,6 +68,7 @@ with open(args.filein,'r') as input_file:
                     print "This should never occur, something is wrong"
                 gradrate = str(float(gradrate_p4yr)*100.)
                 enrollment = str(int(round(float(enrollment))))
+                pellgrants = str(int(round(float(pellgrants))))
                 file_out.write(year + "," + institution + "," + city + "," + state + "," + zipcode + "," + insttype + \
                    "," + carnegie2000 + "," + enrollment + "," + pellgrants + "," + tuition + "," + gradrate + "\n")
         except ValueError:

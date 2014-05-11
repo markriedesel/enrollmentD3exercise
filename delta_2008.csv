@@ -145,7 +145,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2008,University of Northern Colorado,Greeley,CO,80639,Public,16,11091,5252520,4313,49.9484004128
 2008,Regis University,Denver,CO,80221-1099,Private Not-For-Profit,21,7657,2603986,26800,63.5782747604
 2008,Colorado State University-Pueblo,Pueblo,CO,81001-4901,Public,21,4262,4869436,4156,33.1775700935
-2008,United States Air Force Academy,USAFA,CO,80840-5002,Public,59,4461,,0,81.77613321
 2008,Western State College of Colorado,Gunnison,CO,81231,Public,31,1985,1380216,3586,36.07907743
 2008,Albertus Magnus College,New Haven,CT,06511-1189,Private Not-For-Profit,32,1917,1281428,21074,55.5555555556
 2008,University of Bridgeport,Bridgeport,CT,06604-5620,Private Not-For-Profit,16,3734,2003000,22860,43.5897435897
@@ -162,7 +161,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2008,Saint Joseph College,West Hartford,CT,06117-2791,Private Not-For-Profit,21,1218,875000,24690,47.263681592
 2008,Southern Connecticut State University,New Haven,CT,06515-1355,Public,21,9495,5247033,6623,37.9310344828
 2008,Trinity College,Hartford,CT,06106-3100,Private Not-For-Profit,31,2312,902757,36870,86.3138686131
-2008,United States Coast Guard Academy,New London,CT,06320-4195,Public,59,963,,3000,74.6323529412
 2008,Wesleyan University,Middletown,CT,06459,Private Not-For-Profit,31,3079,1064000,36806,92.7374301676
 2008,Western Connecticut State University,Danbury,CT,06810-6860,Public,21,5150,2596750,6624,40.4551201011
 2008,Yale University,New Haven,CT,06520,Private Not-For-Profit,15,11345,1884822,34530,97.3826020015
@@ -425,7 +423,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2008,Murray State University,Murray,KY,42071-3318,Public,21,9111,6994889,5418,49.5867768595
 2008,Northern Kentucky University,Highland Heights,KY,41099,Public,21,11823,8438000,5952,32.8641039524
 2008,Pikeville College,Pikeville,KY,41501,Private Not-For-Profit,32,1056,1443354,13750,34.7619047619
-2008,The Southern Baptist Theological Seminary,Louisville,KY,40280-0001,Private Not-For-Profit,51,2585,,6984,37.8787878788
 2008,Spalding University,Louisville,KY,40203-2188,Private Not-For-Profit,21,1342,1413187,16950,32.9787234043
 2008,Sullivan University,Louisville,KY,40205-3013,Private For-Profit,33,3146,6053108,15000,23.339011925
 2008,Thomas More College,Crestview Hills,KY,41017-3495,Private Not-For-Profit,32,1410,825381,21220,41.9642857143
@@ -442,7 +439,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2008,Loyola University New Orleans,New Orleans,LA,70118-6143,Private Not-For-Profit,21,3657,1630531,26508,62.5
 2008,McNeese State University,Lake Charles,LA,70609-2215,Public,21,6933,7677614,3262,37.1385083714
 2008,University of New Orleans,New Orleans,LA,70148,Public,16,9085,8195183,3984,22.0771513353
-2008,New Orleans Baptist Theological Seminary,New Orleans,LA,70126,Private Not-For-Profit,51,1382,,2110,34.0
 2008,Nicholls State University,Thibodaux,LA,70310,Public,21,5767,6079817,3595,34.2592592593
 2008,University of Louisiana at Monroe,Monroe,LA,71209-0000,Public,21,7356,8535006,3607,31.1302681992
 2008,Northwestern State University of Louisiana,Natchitoches,LA,71497-0002,Public,21,7116,8852108,3528,35.092936803
@@ -480,7 +476,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2008,St Mary's College of Maryland,Saint Mary's City,MD,20686-3001,Public,31,1957,633911,11989,75.2941176471
 2008,Sojourner-Douglass College,Baltimore,MD,21205-1898,Private Not-For-Profit,59,935,3360863,7478,20.4301075269
 2008,Towson University,Towson,MD,21252-0001,Public,21,16861,7214792,7234,66.1510464058
-2008,United States Naval Academy,Annapolis,MD,21402-5000,Public,59,4441,,0,86.0485268631
 2008,Villa Julie College,Stevenson,MD,21153-0641,Private Not-For-Profit,32,2885,1713829,17944,66.1190965092
 2008,Washington College,Chestertown,MD,21620-1438,Private Not-For-Profit,31,1218,292215,32160,79.8913043478
 2008,McDaniel College,Westminster,MD,21157,Private Not-For-Profit,31,2533,812000,28940,72.7272727273
@@ -617,7 +612,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2008,Belhaven College,Jackson,MS,39202,Private Not-For-Profit,32,2403,2867765,15580,41.40969163
 2008,Delta State University,Cleveland,MS,38733,Public,21,3436,4390470,4248,42.2619047619
 2008,Jackson State University,Jackson,MS,39217,Public,16,7431,17113697,4476,42.5049309665
-2008,Millsaps College,Jackson,MS,39210-0001,Private Not-For-Profit,31,1104,,23352,67.7290836653
 2008,University of Mississippi Main Campus,University,MS,38677-1848,Public,15,13977,8937439,4932,55.6502242152
 2008,Mississippi University for Women,Columbus,MS,39701,Public,22,1991,3652239,4209,41.5966386555
 2008,Mississippi Valley State University,Itta Bena,MS,38941-1400,Public,32,2622,7914497,4467,28.624535316
@@ -834,7 +828,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2008,Touro College,New York,NY,10010,Private Not-For-Profit,21,12696,14020000,12600,56.7415730337
 2008,United Talmudical Seminary,Brooklyn,NY,11211,Private Not-For-Profit,51,1500,4602365,6000,40.0
 2008,United States Merchant Marine Academy,Kings Point,NY,11024-1699,Public,59,926,174228,0,72.1428571429
-2008,United States Military Academy,West  Point,NY,10996-2101,Public,59,4487,,0,79.3507664563
 2008,Utica College,Utica,NY,13502-4892,Private Not-For-Profit,32,2477,2649834,24584,52.7716186253
 2008,Vassar College,Poughkeepsie,NY,12604,Private Not-For-Profit,31,2424,762368,38115,91.7721518987
 2008,School of Visual Arts,New York,NY,10010,Private For-Profit,56,3774,2789826,23520,66.6666666667
@@ -988,7 +981,7 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2008,Western Oregon University,Monmouth,OR,97361-1394,Public,21,4423,3773001,5757,39.5318595579
 2008,Albright College,Reading,PA,19612-5234,Private Not-For-Profit,31,2177,1574549,28884,63.5761589404
 2008,Allegheny College,Meadville,PA,16335-3902,Private Not-For-Profit,31,2167,1179315,30000,74.2537313433
-2008,DeSales University,Center Valley,PA,18034-9568,Private Not-For-Profit,21,2175,861086.125,23900,67.4050632911
+2008,DeSales University,Center Valley,PA,18034-9568,Private Not-For-Profit,21,2175,861086,23900,67.4050632911
 2008,Alvernia College,Reading,PA,19607-1799,Private Not-For-Profit,32,2091,1613406,21614,53.305785124
 2008,The Art Institute of Philadelphia,Philadelphia,PA,19103-5198,Private For-Profit,40,3053,5287125,20125,43.2584269663
 2008,The Art Institute of Pittsburgh,Pittsburgh,PA,15219-1328,Private For-Profit,40,6228,4352475,19769,48.7046632124
@@ -1019,7 +1012,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2008,Gannon University,Erie,PA,16541,Private Not-For-Profit,21,3358,2075000,21976,65.130260521
 2008,Geneva College,Beaver Falls,PA,15010-3599,Private Not-For-Profit,22,1746,1620206,19430,58.5585585586
 2008,Gettysburg College,Gettysburg,PA,17325-1486,Private Not-For-Profit,31,2482,889295,35770,82.5581395349
-2008,Grove City College,Grove City,PA,16127-2104,Private Not-For-Profit,32,2489,,11500,84.3537414966
 2008,Gwynedd Mercy College,Gwynedd Valley,PA,19437-0901,Private Not-For-Profit,22,1933,979590,21025,66.9421487603
 2008,Haverford College,Haverford,PA,19041-1392,Private Not-For-Profit,31,1169,485241,35390,93.9102564103
 2008,Holy Family University,Philadelphia,PA,19114-2009,Private Not-For-Profit,21,2300,1686549,20300,60.3773584906
@@ -1131,7 +1123,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2008,Carson-Newman College,Jefferson City,TN,37760,Private Not-For-Profit,21,1900,1809501,16980,52.6682134571
 2008,Christian Brothers University,Memphis,TN,38104,Private Not-For-Profit,22,1528,1485221,21360,58.547008547
 2008,Cumberland University,Lebanon,TN,37087,Private Not-For-Profit,22,1107,1081682,15550,39.6341463415
-2008,Lipscomb University,Nashville,TN,37204-3951,Private Not-For-Profit,22,2501,,16811,62.7413127413
 2008,East Tennessee State University,Johnson City,TN,37614-0000,Public,16,11448,10010168,4887,42.0190995907
 2008,Freed-Hardeman University,Henderson,TN,38340-2399,Private Not-For-Profit,21,1663,1251603,13192,53.3816425121
 2008,Johnson Bible College,Knoxville,TN,37998,Private Not-For-Profit,51,818,751521,7180,50.8379888268

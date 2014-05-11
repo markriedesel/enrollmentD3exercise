@@ -23,7 +23,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,University of Alaska Fairbanks,Fairbanks,AK,99775-7480,Public,16,18445,8947449,4156,27.2892112421
 2006,Arizona State University at the Tempe Campus,Tempe,AZ,85287,Public,15,44279,30993000,4406,56.376887038
 2006,University of Arizona,Tucson,AZ,85721-0066,Public,15,33198,17505000,4498,56.4394635311
-2006,DeVry University-Arizona,Phoenix,AZ,85021-2995,Private For-Profit,54,1232,,12100,42.7142857143
 2006,Grand Canyon University,Phoenix,AZ,85017,Private For-Profit,21,3994,1358774,10250,50.6072874494
 2006,Northern Arizona University,Flagstaff,AZ,86011-4132,Public,16,15275,11943240,4393,47.0743510779
 2006,University of Phoenix-Phoenix-Hohokam Campus,Phoenix,AZ,85040-1958,Private For-Profit,55,12807,5300529,9765,10.5113636364
@@ -78,7 +77,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Chapman University,Orange,CA,92866,Private Not-For-Profit,21,9406,3324299,28738,64.5367412141
 2006,Concordia University,Irvine,CA,92612-3299,Private Not-For-Profit,22,1877,944166,19900,58.7662337662
 2006,Claremont McKenna College,Claremont,CA,91711-6400,Private Not-For-Profit,31,1140,310000,30800,87.7394636015
-2006,DeVry University-California,Pomona,CA,91768-2642,Private For-Profit,32,4406,,12743,42.4198250729
 2006,Dominican University of California,San Rafael,CA,94901-2298,Private Not-For-Profit,21,1612,1052424,26150,53.0973451327
 2006,Fresno Pacific University,Fresno,CA,93702-4709,Private Not-For-Profit,21,1530,1676877,19664,63.125
 2006,Golden Gate University-San Francisco,San Francisco,CA,94105-2968,Private Not-For-Profit,55,2393,136460,12150,50.0
@@ -121,7 +119,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,University of Southern California,Los Angeles,CA,90089,Private Not-For-Profit,15,30365,8258060,32008,84.0495015469
 2006,Westmont College,Santa Barbara,CA,93108-1089,Private Not-For-Profit,31,1366,398700,27806,77.1883289125
 2006,Whittier College,Whittier,CA,90601,Private Not-For-Profit,31,2047,961789,27038,62.0253164557
-2006,Woodbury University,Burbank,CA,91510-7846,Private Not-For-Profit,22,1239,,22958,51.0948905109
 2006,Adams State College,Alamosa,CO,81102,Public,21,4686,3441012,4773,32.6975476839
 2006,University of Colorado at Denver and Health Sciences Center,Denver,CO,80217-3364,Public,16,13164,5268559,5021,35.7281553398
 2006,University of Colorado at Colorado Springs,Colorado Springs,CO,80933-7150,Public,21,6821,4060826,4888,42.061281337
@@ -141,7 +138,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,University of Northern Colorado,Greeley,CO,80639,Public,16,11955,5086752,3837,49.1244675816
 2006,Regis University,Denver,CO,80221-1099,Private Not-For-Profit,21,7904,2342947,23700,59.2715231788
 2006,Colorado State University-Pueblo,Pueblo,CO,81001-4901,Public,21,4356,4921099,3555,31.0452418097
-2006,United States Air Force Academy,USAFA,CO,80840-5002,Public,59,4463,,0,77.2402854877
 2006,Western State College of Colorado,Gunnison,CO,81231,Public,31,2128,1375963,3138,31.3492063492
 2006,Albertus Magnus College,New Haven,CT,06511-1189,Private Not-For-Profit,32,2127,1167999,17886,48.3146067416
 2006,University of Bridgeport,Bridgeport,CT,06604-5620,Private Not-For-Profit,16,2830,1805000,20595,46.5838509317
@@ -158,7 +154,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Saint Joseph College,West Hartford,CT,06117-2791,Private Not-For-Profit,21,1340,860000,22825,58.8235294118
 2006,Southern Connecticut State University,New Haven,CT,06515-1355,Public,21,9431,4587864,5814,34.0740740741
 2006,Trinity College,Hartford,CT,06106-3100,Private Not-For-Profit,31,2253,738284,33630,83.2310838446
-2006,United States Coast Guard Academy,New London,CT,06320-4195,Public,59,1005,,3000,69.1029900332
 2006,Wesleyan University,Middletown,CT,06459,Private Not-For-Profit,31,3043,901000,33190,90.1388888889
 2006,Western Connecticut State University,Danbury,CT,06810-6860,Public,21,4801,1948011,5800,36.6871165644
 2006,Yale University,New Haven,CT,06520,Private Not-For-Profit,15,11360,1393000,31460,96.2194217939
@@ -230,7 +225,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Columbus State University,Columbus,GA,31907-5645,Public,21,5798,6057490,2944,34.3541944075
 2006,Covenant College,Lookout Mountain,GA,30750-4164,Private Not-For-Profit,32,1224,651025,20736,64.0776699029
 2006,Dalton State College,Dalton,GA,30720-3797,Public,40,2867,2937027,1744,50.0
-2006,DeVry University-Georgia,Decatur,GA,30030-2198,Private For-Profit,54,3148,,12100,36.4389233954
 2006,South University-Savannah,Savannah,GA,31406,Private For-Profit,40,1568,2906964,15325,42.3076923077
 2006,Emory University,Atlanta,GA,30322,Private Not-For-Profit,15,11624,2148048,30794,86.6048862679
 2006,Fort Valley State University,Fort Valley,GA,31030-4313,Public,21,1947,3974365,3044,36.3372093023
@@ -303,7 +297,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Northern Illinois University,Dekalb,IL,60115-2825,Public,15,21328,13071741,7229,48.3182640145
 2006,Northwestern University,Evanston,IL,60208,Private Not-For-Profit,15,16192,2029000,31789,92.750533049
 2006,Northeastern Illinois University,Chicago,IL,60625-4699,Public,21,8220,7908305,4517,18.4599156118
-2006,Olivet Nazarene University,Bourbonnais,IL,60914-2271,Private Not-For-Profit,21,3397,,16490,52.7777777778
 2006,Quincy University,Quincy,IL,62301-2699,Private Not-For-Profit,22,1111,735892,18330,47.6595744681
 2006,The Illinois Institute of Art-Chicago,Chicago,IL,60654-1593,Private For-Profit,56,3195,3966217,18930,53.8641686183
 2006,Robert Morris College,Chicago,IL,60605,Private Not-For-Profit,55,4986,10430948,15375,92.8338762215
@@ -417,7 +410,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Murray State University,Murray,KY,42071-3318,Public,21,8683,6311670,4428,55.9510567297
 2006,Northern Kentucky University,Highland Heights,KY,41099,Public,21,11385,7389000,4968,42.3390752493
 2006,Pikeville College,Pikeville,KY,41501,Private Not-For-Profit,32,1089,1488649,11500,29.4776119403
-2006,The Southern Baptist Theological Seminary,Louisville,KY,40280-0001,Private Not-For-Profit,51,2681,,6090,34.5132743363
 2006,Spalding University,Louisville,KY,40203-2188,Private Not-For-Profit,21,1291,1150930,18480,29.0322580645
 2006,Sullivan University,Louisville,KY,40205-3013,Private For-Profit,33,3722,5832893,13335,72.4745134384
 2006,Thomas More College,Crestview Hills,KY,41017-3495,Private Not-For-Profit,32,1303,548228,18320,44.7257383966
@@ -470,11 +462,9 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Salisbury University,Salisbury,MD,21801-6862,Public,21,6380,2268128,6376,69.8615548456
 2006,St Mary's College of Maryland,Saint Mary's City,MD,20686-3001,Public,31,1895,573664,10833,80.2666666667
 2006,Towson University,Towson,MD,21252-0001,Public,21,15286,5697339,7096,63.6042402827
-2006,United States Naval Academy,Annapolis,MD,21402-5000,Public,59,4422,,0,87.1727748691
 2006,Villa Julie College,Stevenson,MD,21153-0641,Private Not-For-Profit,32,2574,1185898,15674,62.1176470588
 2006,Washington College,Chestertown,MD,21620-1438,Private Not-For-Profit,31,1352,195775,28790,71.9251336898
 2006,McDaniel College,Westminster,MD,21157,Private Not-For-Profit,31,2463,663000,26010,72.3981900452
-2006,American International College,Springfield,MA,01109,Private Not-For-Profit,21,1530,,20344,53.1380753138
 2006,Amherst College,Amherst,MA,01002-5000,Private Not-For-Profit,31,1612,598975,33009,95.6221198157
 2006,Assumption College,Worcester,MA,01609-1296,Private Not-For-Profit,21,2428,602921,24095,70.3204047218
 2006,Babson College,Wellesley,MA,02457-0310,Private Not-For-Profit,55,2570,549024,30496,87.2093023256
@@ -530,7 +520,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Wheaton College,Norton,MA,02766,Private Not-For-Profit,31,1563,552150,32350,74.6666666667
 2006,Wheelock College,Boston,MA,02215-4176,Private Not-For-Profit,21,884,521785,23625,62.6373626374
 2006,Williams College,Williamstown,MA,01267,Private Not-For-Profit,31,2074,723263,31760,95.6439393939
-2006,Worcester Polytechnic Institute,Worcester,MA,01609-2280,Private Not-For-Profit,16,3524,,31190,75.0362844702
 2006,Worcester State College,Worcester,MA,01602-2597,Public,21,4164,2044733,5079,36.9294605809
 2006,Adrian College,Adrian,MI,49221-2575,Private Not-For-Profit,31,950,806939,18630,40.9937888199
 2006,Albion College,Albion,MI,49224,Private Not-For-Profit,31,1956,749289,24296,74.3209876543
@@ -538,7 +527,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Andrews University,Berrien Springs,MI,49104,Private Not-For-Profit,16,2503,1650693,16506,56.9288389513
 2006,Aquinas College,Grand Rapids,MI,49506-1799,Private Not-For-Profit,22,1819,1010618,17926,52.2099447514
 2006,Baker College of Flint,Flint,MI,48507-9987,Private Not-For-Profit,33,23929,39226060,6300,30.4445930038
-2006,Calvin College,Grand Rapids,MI,49546,Private Not-For-Profit,32,4052,,19150,74.5714285714
 2006,Central Michigan University,Mount Pleasant,MI,48859,Public,16,22431,11526072,6390,57.288712422
 2006,College for Creative Studies,Detroit,MI,48202,Private Not-For-Profit,56,1155,940788,23135,51.3661202186
 2006,Davenport University,Grand Rapids,MI,49512-9396,Private Not-For-Profit,55,6984,17113532,8880,22.9787234043
@@ -619,7 +607,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Central Methodist University-College of Liberal Arts & Sciences,Fayette,MO,65248-1198,Private Not-For-Profit,32,1866,1330817,15200,43.0555555556
 2006,University of Central Missouri,Warrensburg,MO,64093,Public,21,8739,6714485,4440,50.4143646409
 2006,Columbia College,Columbia,MO,65216,Private Not-For-Profit,32,8249,9516335,11995,46.4968152866
-2006,DeVry University-Missouri,Kansas City,MO,64131-3626,Private For-Profit,32,1003,,12100,44.9168207024
 2006,Drury University,Springfield,MO,65802-3791,Private Not-For-Profit,22,3808,4626935,14669,57.3113207547
 2006,Evangel University,Springfield,MO,65802,Private Not-For-Profit,32,1744,1460729,12775,52.676056338
 2006,Fontbonne University,Saint Louis,MO,63105-3098,Private Not-For-Profit,21,2267,1638838,16320,54.8780487805
@@ -674,7 +661,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,University of Nevada-Reno,Reno,NV,89557,Public,15,13408,4108018,3270,48.7564766839
 2006,Colby-Sawyer College,New London,NH,03257-7835,Private Not-For-Profit,32,961,446552,24700,63.36996337
 2006,Daniel Webster College,Nashua,NH,03063-1300,Private Not-For-Profit,32,894,373339,22705,45.1612903226
-2006,Dartmouth College,Hanover,NH,03755-3529,Private Not-For-Profit,16,5693,,31965,93.9114391144
 2006,Franklin Pierce University,Rindge,NH,03461-0060,Private Not-For-Profit,31,2272,1319041,23710,52.0754716981
 2006,New England College,Henniker,NH,03242,Private Not-For-Profit,32,1176,550275,23010,45.2173913043
 2006,Southern New Hampshire University,Manchester,NH,03106,Private Not-For-Profit,55,4774,1640502,20514,45.652173913
@@ -813,7 +799,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Union College,Schenectady,NY,12308-2311,Private Not-For-Profit,31,2226,872956,41595,85.8676207513
 2006,United Talmudical Seminary,Brooklyn,NY,11211,Private Not-For-Profit,51,1330,3175730,6000,18.085106383
 2006,United States Merchant Marine Academy,Kings Point,NY,11024-1699,Public,59,927,112435,0,70.6319702602
-2006,United States Military Academy,West  Point,NY,10996-2101,Public,59,4448,,0,84.0604026846
 2006,Utica College,Utica,NY,13502-4892,Private Not-For-Profit,32,2438,2439970,22340,45.393258427
 2006,Vassar College,Poughkeepsie,NY,12604,Private Not-For-Profit,31,2346,668439,33800,90.2973395931
 2006,School of Visual Arts,New York,NY,10010,Private For-Profit,56,3426,2334388,20580,64.3298969072
@@ -886,7 +871,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Columbus College of Art and Design,Columbus,OH,43215,Private Not-For-Profit,56,1334,1139336,20278,60.6965174129
 2006,University of Dayton,Dayton,OH,45469,Private Not-For-Profit,16,9403,1950000,22046,77.0408163265
 2006,Denison University,Granville,OH,43023-0713,Private Not-For-Profit,31,2304,681488,28920,76.6975308642
-2006,DeVry University-Ohio,Columbus,OH,43209-2705,Private For-Profit,32,2382,,12100,38.1510416667
 2006,The University of Findlay,Findlay,OH,45840-3653,Private Not-For-Profit,21,3666,1721237,21746,50.6706408346
 2006,Franklin University,Columbus,OH,43215-5399,Private Not-For-Profit,55,4432,4388000,7564,11.1111111111
 2006,Heidelberg College,Tiffin,OH,44883-2462,Private Not-For-Profit,21,1311,938454,16134,57.4007220217
@@ -937,7 +921,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Oklahoma Christian University,Edmond,OK,73013-1100,Private Not-For-Profit,32,2096,1561766,13932,42.0
 2006,Oklahoma Panhandle State University,Goodwell,OK,73939-0430,Public,32,1011,1386202,3309,52.427184466
 2006,Oklahoma State University-Main Campus,Stillwater,OK,74078-1015,Public,15,20521,13040914,4365,58.9795918367
-2006,Oklahoma Baptist University,Shawnee,OK,74804,Private Not-For-Profit,32,1501,,13784,57.1428571429
 2006,Oklahoma City University,Oklahoma City,OK,73106-1402,Private Not-For-Profit,21,3300,966624,17715,50.3896103896
 2006,University of Oklahoma Norman Campus,Norman,OK,73019-3072,Public,15,22467,11911000,4408,58.7793144919
 2006,Oral Roberts University,Tulsa,OK,74171,Private Not-For-Profit,21,3152,2591901,15880,55.4469273743
@@ -994,7 +977,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Gannon University,Erie,PA,16541,Private Not-For-Profit,21,2911,1748000,19245,65.2416356877
 2006,Geneva College,Beaver Falls,PA,15010-3599,Private Not-For-Profit,22,1930,1399998,17480,57.7464788732
 2006,Gettysburg College,Gettysburg,PA,17325-1486,Private Not-For-Profit,31,2488,701525,31790,80.3206997085
-2006,Grove City College,Grove City,PA,16127-2104,Private Not-For-Profit,32,2321,,10440,80.1587301587
 2006,Gwynedd Mercy College,Gwynedd Valley,PA,19437-0901,Private Not-For-Profit,22,1938,899535,18105,76.7605633803
 2006,Haverford College,Haverford,PA,19041-1392,Private Not-For-Profit,31,1168,317102,31760,94.0119760479
 2006,Holy Family University,Philadelphia,PA,19114-2009,Private Not-For-Profit,21,2259,1398176,17740,58.1027667984
@@ -1107,7 +1089,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Carson-Newman College,Jefferson City,TN,37760,Private Not-For-Profit,21,1903,1647312,15240,61.3425925926
 2006,Christian Brothers University,Memphis,TN,38104,Private Not-For-Profit,22,1435,1376805,19150,55.298013245
 2006,Cumberland University,Lebanon,TN,37087,Private Not-For-Profit,22,1170,1102742,13744,30.6878306878
-2006,Lipscomb University,Nashville,TN,37204-3951,Private Not-For-Profit,22,2285,,14567,52.2260273973
 2006,East Tennessee State University,Johnson City,TN,37614-0000,Public,16,10394,8636562,4487,39.9038461538
 2006,Fisk University,Nashville,TN,37208-4501,Private Not-For-Profit,31,873,1272590,13180,56.9037656904
 2006,Freed-Hardeman University,Henderson,TN,38340-2399,Private Not-For-Profit,21,1710,1276652,12440,48.7394957983
@@ -1139,7 +1120,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,Texas A & M University-Corpus Christi,Corpus Christi,TX,78412-5503,Public,21,6807,7203381,4073,40.5339805825
 2006,Dallas Baptist University,Dallas,TX,75211-9299,Private Not-For-Profit,21,3431,2179538,12270,57.6131687243
 2006,University of Dallas,Irving,TX,75062-4736,Private Not-For-Profit,31,2092,501802,20406,65.5913978495
-2006,DeVry University-Texas,Irving,TX,75063-2439,Private For-Profit,54,1944,,12100,30.1919720768
 2006,East Texas Baptist University,Marshall,TX,75670-1498,Private Not-For-Profit,32,1235,1400411,12840,33.5748792271
 2006,Texas A & M University-Commerce,Commerce,TX,75429-3011,Public,16,6186,5969787,4136,34.555984556
 2006,The Art Institute of Dallas,Dallas,TX,75231-5993,Private For-Profit,40,1121,1344890,17250,67.8571428571
@@ -1345,7 +1325,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,University of Phoenix-Louisiana Campus,Metairie,LA,70001-2082,Private For-Profit,-3,2753,2574260,9120,22.2222222222
 2006,University of Phoenix-Metro Detroit Campus,Troy,MI,48098-2623,Private For-Profit,-3,5150,4379027,11340,11.9266055046
 2006,The Art Institute of Phoenix,Phoenix,AZ,85021-2859,Private For-Profit,40,1053,1401301,24336,51.6129032258
-2006,DeVry Institute of Technology & Keller Graduate School of Management-New York,Long Island City,NY,11101-3051,Private For-Profit,-3,1184,,13370,32.603406326
 2006,University of Phoenix-Western Washington Campus,Renton,WA,98055-2611,Private For-Profit,-3,2172,895142,11055,11.1111111111
 2006,University of Phoenix-Central Florida Campus,Maitland,FL,32751-7057,Private For-Profit,-3,10195,6069422,9960,11.8764845606
 2006,University of Phoenix-Oregon Campus,Tigard,OR,97223-8368,Private For-Profit,-3,2053,1281974,10410,11.8644067797
@@ -1355,7 +1334,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2006,University of Phoenix-Oklahoma City Campus,Oklahoma City,OK,73116-8244,Private For-Profit,-3,2353,3139068,9360,15.3846153846
 2006,American Intercontinental University-Dunwoody Campus,Atlanta,GA,30328,Private For-Profit,-3,1350,3114495,22100,22.594022695
 2006,University of Phoenix-Philadelphia Campus,Wayne,PA,19087-2121,Private For-Profit,-3,2339,1300850,13050,6.74157303371
-2006,DeVry University-Florida,Orlando,FL,32839-2426,Private For-Profit,-3,1810,,12760,22.5806451613
 2006,University of Phoenix-St Louis Campus,Saint Louis,MO,63043-4828,Private For-Profit,-3,1026,1004304,11550,3.0303030303
 2006,The Art Institute of Washington,Arlington,VA,22209-1802,Private For-Profit,-3,925,1265275,18000,28.5714285714
 2006,The Art Institute of California-Orange County,Santa Ana,CA,92704,Private For-Profit,-3,1592,2039454,18964,54.6875

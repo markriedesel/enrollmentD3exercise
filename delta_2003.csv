@@ -26,7 +26,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Arizona State University at the Tempe Campus,Tempe,AZ,85287,Public,15,40086,26091000,2585,52.0048602673
 2003,University of Arizona,Tucson,AZ,85721-006,Public,15,32344,18035000,2593,54.7054840894
 2003,DeVry University-Arizona,Phoenix,AZ,85021-299,Private For-Profit,54,2382,6201260,9480,39.1452991453
-2003,Grand Canyon University,Phoenix,AZ,85017,Private For-Profit,21,2303,,13750,47.311827957
 2003,Northern Arizona University,Flagstaff,AZ,86011-413,Public,16,15750,11382392,2585,51.8406454866
 2003,University of Phoenix-Phoenix-Hohokam Campus,Phoenix,AZ,85040-195,Private For-Profit,55,11277,3451186,8400,19.5679796696
 2003,Prescott College,Prescott,AZ,86301,Private Not-For-Profit,22,941,823172,14150,42.8571428571
@@ -88,7 +87,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Loma Linda University,Loma Linda,CA,92350,Private Not-For-Profit,16,4336,2591399,20250,33.0985915493
 2003,The Master's College and Seminary,Santa Clarita,CA,91321-120,Private Not-For-Profit,32,1349,825031,16620,61.0256410256
 2003,Loyola Marymount University,Los Angeles,CA,90045-265,Private Not-For-Profit,21,7553,3287972,22078,73.3193277311
-2003,Mills College,Oakland,CA,94613,Private Not-For-Profit,31,1141,,22280,62.037037037
 2003,Mount St Mary's College,Los Angeles,CA,90049-159,Private Not-For-Profit,21,1606,2375567,19482,65.7718120805
 2003,National University,La Jolla,CA,92037-101,Private Not-For-Profit,21,13529,3076532,7965,0.270392068499
 2003,New College of California,San Francisco,CA,94110,Private Not-For-Profit,22,1046,414679,10270,59.5238095238
@@ -111,13 +109,11 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Santa Clara University,Santa Clara,CA,95053,Private Not-For-Profit,21,6697,1678000,23925,84.7609561753
 2003,Scripps College,Claremont,CA,91711-394,Private Not-For-Profit,31,837,258575,25700,80.0
 2003,Simpson University,Redding,CA,96003-860,Private Not-For-Profit,22,1169,1232648,13680,46.6666666667
-2003,Saint Marys College of California,Moraga,CA,94556,Private Not-For-Profit,21,3556,1947161.125,20885,68.7919463087
+2003,Saint Marys College of California,Moraga,CA,94556,Private Not-For-Profit,21,3556,1947161,20885,68.7919463087
 2003,Sonoma State University,Rohnert Park,CA,94928-360,Public,21,7160,4211086,2226,47.8211009174
 2003,Vanguard University of Southern California,Costa Mesa,CA,92626,Private Not-For-Profit,32,1577,1281585,15278,49.7737556561
-2003,University of Southern California,Los Angeles,CA,90089,Private Not-For-Profit,15,28020,,26956,80.5948494741
 2003,Westmont College,Santa Barbara,CA,93108-108,Private Not-For-Profit,31,1323,472438,23536,71.686746988
 2003,Whittier College,Whittier,CA,90608,Private Not-For-Profit,31,1886,1130170,22938,50.8333333333
-2003,Woodbury University,Burbank,CA,91510-784,Private Not-For-Profit,22,1088,,19900,42.2222222222
 2003,Adams State College,Alamosa,CO,81102,Public,21,4074,2683097,2384,30.2059496568
 2003,University of Colorado at Denver and Health Sciences Center,Denver,CO,80217-336,Public,16,10055,3541590,3242,39.1799544419
 2003,University of Colorado at Colorado Springs,Colorado Springs,CO,80933-715,Public,21,6143,3627907,3844,38.9210019268
@@ -136,7 +132,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,University of Northern Colorado,Greeley,CO,80639,Public,16,11109,4691659,2984,47.0866141732
 2003,Regis University,Denver,CO,80221-109,Private Not-For-Profit,21,5975,1873412,19550,54.7794117647
 2003,Colorado State University-Pueblo,Pueblo,CO,81001-490,Public,21,4502,4937908,2620,31.724137931
-2003,United States Air Force Academy,Usafa,CO,80840-500,Public,59,4213,,2500,81.4569536424
 2003,Western State College of Colorado,Gunnison,CO,81231,Public,31,2233,1521161,2479,30.8362369338
 2003,Albertus Magnus College,New Haven,CT,06511-118,Private Not-For-Profit,32,2151,858986,15712,55.2083333333
 2003,University of Bridgeport,Bridgeport,CT,06604-562,Private Not-For-Profit,16,2362,1042000,16466,46.5240641711
@@ -144,16 +139,13 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Connecticut College,New London,CT,06320,Private Not-For-Profit,31,1848,496000,35625,86.129753915
 2003,University of Connecticut,Storrs,CT,06269,Public,15,22395,7836157,6154,64.126394052
 2003,Eastern Connecticut State University,Willimantic,CT,06226,Public,21,4275,2121751,4455,42.1356421356
-2003,Fairfield University,Fairfield,CT,06824-519,Private Not-For-Profit,21,4173,,24555,78.4246575342
 2003,University of Hartford,West Hartford,CT,06117-159,Private Not-For-Profit,16,5736,1974065,21550,51.8828451883
 2003,University of New Haven,West Haven,CT,06516,Private Not-For-Profit,21,3283,1330231,19282,48.1099656357
-2003,Post University,Waterbury,CT,06723,Private For-Profit,32,921,,16500,44.6601941748
 2003,Quinnipiac University,Hamden,CT,06518,Private Not-For-Profit,21,6359,1190760,19890,68.7074829932
 2003,Sacred Heart University,Fairfield,CT,06825-100,Private Not-For-Profit,21,4437,1432930,19260,56.0126582278
 2003,Saint Joseph College,West Hartford,CT,06117-279,Private Not-For-Profit,21,1247,849069,19610,61.4942528736
 2003,Southern Connecticut State University,New Haven,CT,06515-135,Public,21,9075,4082344,4444,33.1496786042
 2003,Trinity College,Hartford,CT,06106-310,Private Not-For-Profit,31,2077,726545,28602,84.2
-2003,United States Coast Guard Academy,New London,CT,06320-419,Public,59,952,,3000,64.7286821705
 2003,Wesleyan University,Middletown,CT,06459,Private Not-For-Profit,31,3016,988000,28320,91.0
 2003,Western Connecticut State University,Danbury,CT,06810-686,Public,21,4657,1815167,4456,36.4906832298
 2003,Yale University,New Haven,CT,06520,Private Not-For-Profit,15,11261,1460000,27130,96.0214231064
@@ -169,8 +161,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,George Washington University,Washington,DC,20052,Private Not-For-Profit,15,17865,3155000,27820,75.1165501166
 2003,Georgetown University,Washington,DC,20057,Private Not-For-Profit,15,12059,1771000,26853,93.0416068867
 2003,Howard University,Washington,DC,20059-000,Private Not-For-Profit,15,9866,6561698,10320,68.880455408
-2003,Strayer University-Washington Campus,Washington,DC,20005,Private For-Profit,22,9336,,8930,10.7692307692
-2003,Trinity Washington University,Washington,DC,20017-109,Private Not-For-Profit,21,1069,,15600,36.7521367521
 2003,The Art Institute of Fort Lauderdale Inc,Fort Lauderdale,FL,33316-300,Private For-Profit,56,2720,4518111,14765,85.9200487639
 2003,Barry University,Miami,FL,33161-669,Private Not-For-Profit,21,5948,4995696,19125,57.3863636364
 2003,Bethune Cookman College,Daytona Beach,FL,32114-309,Private Not-For-Profit,32,2491,5614773,9810,30.3070761015
@@ -241,7 +231,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Paine College,Augusta,GA,30901-318,Private Not-For-Profit,31,813,1966382,8640,30.9210526316
 2003,Piedmont College,Demorest,GA,30535-001,Private Not-For-Profit,22,1482,859912,12500,31.3432835821
 2003,Reinhardt College,Waleska,GA,30183-298,Private Not-For-Profit,33,986,672477,9840,42.3487544484
-2003,Savannah College of Art and Design,Savannah,GA,31402-314,Private Not-For-Profit,56,5437,,18455,62.3642943305
 2003,Savannah State University,Savannah,GA,31404,Public,22,2103,4713791,2628,17.6211453744
 2003,Shorter College,Rome,GA,30165,Private Not-For-Profit,32,2238,1572679,10640,47.9338842975
 2003,Spelman College,Atlanta,GA,30314-439,Private Not-For-Profit,31,2080,1947820,12675,77.0297029703
@@ -295,7 +284,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Northern Illinois University,Dekalb,IL,60115-282,Public,15,20822,12350075,5175,52.861952862
 2003,Northwestern University,Evanston,IL,60208,Private Not-For-Profit,15,15405,2169000,27228,93.1180518793
 2003,Northeastern Illinois University,Chicago,IL,60625-469,Public,21,7634,7944105,3000,17.8748758689
-2003,Olivet Nazarene University,Bourbonnais,IL,60914-227,Private Not-For-Profit,21,2721,,14220,53.9906103286
 2003,Quincy University,Quincy,IL,62301-269,Private Not-For-Profit,22,1072,775011,16360,46.4285714286
 2003,The Illinois Institute of Art,Chicago,IL,60654-159,Private For-Profit,56,2531,2065108,15427,79.1666666667
 2003,Robert Morris College,Chicago,IL,60605,Private Not-For-Profit,55,4866,11109476,12750,95.0276243094
@@ -307,12 +295,10 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Southern Illinois University Carbondale,Carbondale,IL,62901-451,Public,15,19099,16067794,4133,43.6901653612
 2003,Southern Illinois University Edwardsville,Edwardsville,IL,62026-100,Public,21,10618,7095926,3709,44.6267432322
 2003,Trinity Christian College,Palos Heights,IL,60463-092,Private Not-For-Profit,32,995,620366,14640,59.375
-2003,Trinity International University,Deerfield,IL,60015-128,Private Not-For-Profit,51,1975,,16350,48.2269503546
 2003,Western Illinois University,Macomb,IL,61455,Public,21,11649,7528663,4846,55.3058676654
 2003,Wheaton College,Wheaton,IL,60187-559,Private Not-For-Profit,31,2729,755217,17320,86.2637362637
 2003,Anderson University,Anderson,IN,46012-349,Private Not-For-Profit,22,2214,1618411,16140,56.9844789357
 2003,Ball State University,Muncie,IN,47306,Public,16,17393,5865296,4700,49.0956072351
-2003,Bethel College,Mishawaka,IN,46545,Private Not-For-Profit,32,1428,,14390,62.2119815668
 2003,Butler University,Indianapolis,IN,46208,Private Not-For-Profit,21,3918,1028000,20190,68.8125894134
 2003,DePauw University,Greencastle,IN,46135-177,Private Not-For-Profit,31,2306,688175,22840,75.0371471025
 2003,Earlham College,Richmond,IN,47374-409,Private Not-For-Profit,31,1120,665032,23424,70.7142857143
@@ -321,7 +307,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Goshen College,Goshen,IN,46526-479,Private Not-For-Profit,31,844,494025,15000,66.028708134
 2003,Grace College and Theological Seminary,Winona Lake,IN,46590,Private Not-For-Profit,32,1158,654159,12466,61.2903225806
 2003,Hanover College,Hanover,IN,47243-010,Private Not-For-Profit,31,1046,429663,13500,67.1974522293
-2003,Huntington University,Huntington,IN,46750,Private Not-For-Profit,32,883,,15920,58.883248731
 2003,Indiana University-Purdue University-Fort Wayne,Fort Wayne,IN,46805-149,Public,21,8454,6381123,3774,22.7360308285
 2003,Indiana University-Purdue University-Indianapolis,Indianapolis,IN,46202-289,Public,16,21227,13862877,4536,22.9457364341
 2003,University of Indianapolis,Indianapolis,IN,46227-369,Private Not-For-Profit,21,2906,1820625,15920,54.1125541126
@@ -367,7 +352,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Loras College,Dubuque,IA,52004-017,Private Not-For-Profit,32,1608,979335,17949,64.0419947507
 2003,Luther College,Decorah,IA,52101-104,Private Not-For-Profit,31,2529,1322546,20310,78.6963434022
 2003,Morningside College,Sioux City,IA,51106-175,Private Not-For-Profit,32,892,871451,14860,58.6206896552
-2003,Mount Mercy College,Cedar Rapids,IA,52402-479,Private Not-For-Profit,32,1119,,15300,61.2359550562
 2003,University of Northern Iowa,Cedar Falls,IA,50614,Public,21,12508,7330700,4117,65.1041666667
 2003,Northwestern College,Orange City,IA,51041,Private Not-For-Profit,32,1269,1091398,14290,58.934169279
 2003,Saint Ambrose University,Davenport,IA,52803-289,Private Not-For-Profit,21,2707,1605390,15750,58.1761006289
@@ -433,7 +417,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,University of Louisiana at Lafayette,Lafayette,LA,70503,Public,16,13971,12657149,2386,30.036900369
 2003,Tulane University of Louisiana,New Orleans,LA,70118-569,Private Not-For-Profit,15,10679,3056000,28310,73.7903225806
 2003,Xavier University of Louisiana,New Orleans,LA,70125-109,Private Not-For-Profit,21,3823,5258688,11000,58.7962962963
-2003,Bates College,Lewiston,ME,04240,Private Not-For-Profit,31,1738,,35750,88.5393258427
 2003,Bowdoin College,Brunswick,ME,04011-844,Private Not-For-Profit,31,1653,521425,28685,90.0634249471
 2003,Colby College,Waterville,ME,04901,Private Not-For-Profit,31,1830,344000,35800,86.3917525773
 2003,Husson College,Bangor,ME,04401-299,Private Not-For-Profit,22,1491,1643347,12540,57.2463768116
@@ -460,11 +443,9 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,St Mary's College of Maryland,Saint Mary's City,MD,20686-300,Public,31,1719,562576,8082,75.0724637681
 2003,Sojourner-Douglass College,Baltimore,MD,21205-189,Private Not-For-Profit,59,950,2382876,5590,50.0
 2003,Towson University,Towson,MD,21252-000,Public,21,14729,5134638,5281,56.5265486726
-2003,United States Naval Academy,Annapolis,MD,21402-500,Public,59,4309,,2200,86.261682243
 2003,Villa Julie College,Stevenson,MD,21153-064,Private Not-For-Profit,32,2113,1011733,12798,56.2146892655
 2003,Washington College,Chestertown,MD,21620-143,Private Not-For-Profit,31,1302,328800,23300,65.8620689655
 2003,McDaniel College,Westminster,MD,21157,Private Not-For-Profit,31,2406,684000,21760,72.3653395785
-2003,American International College,Springfield,MA,01109,Private Not-For-Profit,21,1298,,16104,43.0830039526
 2003,Amherst College,Amherst,MA,01002-500,Private Not-For-Profit,31,1618,679785,28304,96.7517401392
 2003,Anna Maria College,Paxton,MA,01612-119,Private Not-For-Profit,21,919,361916,17710,51.1111111111
 2003,Assumption College,Worcester,MA,01609-129,Private Not-For-Profit,21,2398,579242,19980,68.5567010309
@@ -515,9 +496,7 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Western New England College,Springfield,MA,01119-268,Private Not-For-Profit,21,3280,1075466,17434,58.1818181818
 2003,Westfield State College,Westfield,MA,01086-163,Public,21,4347,1655366,3755,55.6991774383
 2003,Wheaton College,Norton,MA,02766,Private Not-For-Profit,31,1511,631625,27330,74.8858447489
-2003,Wheelock College,Boston,MA,02215-417,Private Not-For-Profit,21,853,,18925,54.1644526319
 2003,Williams College,Williamstown,MA,01267,Private Not-For-Profit,31,2006,576654,26520,95.7720588235
-2003,Worcester Polytechnic Institute,Worcester,MA,01609,Private Not-For-Profit,16,3357,,26360,76.5988372093
 2003,Worcester State College,Worcester,MA,01602-259,Public,21,4109,2029225,3273,40.4705882353
 2003,Adrian College,Adrian,MI,49221-257,Private Not-For-Profit,31,998,681486,15660,41.4179104478
 2003,Albion College,Albion,MI,49224,Private Not-For-Profit,31,1634,584728,20700,68.5654008439
@@ -525,7 +504,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Andrews University,Berrien Springs,MI,49104,Private Not-For-Profit,16,2322,1734435,13746,53.0405405405
 2003,Aquinas College,Grand Rapids,MI,49506-179,Private Not-For-Profit,22,2080,1045379,15620,53.1914893617
 2003,Baker College of Flint,Flint,MI,48507-998,Private Not-For-Profit,33,18104,28298970,5760,42.2791026887
-2003,Calvin College,Grand Rapids,MI,49546,Private Not-For-Profit,32,4172,,15750,73.9791073124
 2003,Central Michigan University,Mount Pleasant,MI,48859,Public,16,22475,11563720,4747,52.299245024
 2003,College for Creative Studies,Detroit,MI,48202,Private Not-For-Profit,56,1094,784970,18598,55.487804878
 2003,Davenport University,Grand Rapids,MI,49512,Private Not-For-Profit,55,4429,8349889,9015,17.8947368421
@@ -576,10 +554,7 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Minnesota State University-Moorhead,Moorhead,MN,56563,Public,21,6879,5334487,3713,45.9132189707
 2003,North Central University,Minneapolis,MN,55404-139,Private Not-For-Profit,51,1209,956277,10104,46.7948717949
 2003,Northwestern College,Saint Paul,MN,55113-159,Private Not-For-Profit,32,2110,1742025,16500,58.8888888889
-2003,College of Saint Benedict,Saint Joseph,MN,56374,Private Not-For-Profit,31,2034,,19226,78.612716763
 2003,Saint Cloud State University,Saint Cloud,MN,56301-449,Public,21,13917,6875162,3997,41.7170495768
-2003,Saint Johns University,Collegeville,MN,56321,Private Not-For-Profit,31,1978,,19226,82.8888888889
-2003,Saint Mary's University of Minnesota,Winona,MN,55987-139,Private Not-For-Profit,21,3051,,15695,59.6774193548
 2003,St. Olaf College,Northfield,MN,55057-109,Private Not-For-Profit,31,3000,943186,22200,81.163434903
 2003,Crown College,Saint Bonifacius,MN,55375-900,Private Not-For-Profit,32,828,884813,11982,53.2467532468
 2003,The College of Saint Scholastica,Duluth,MN,55811-419,Private Not-For-Profit,21,2263,1630815,18216,65.5737704918
@@ -591,7 +566,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Belhaven College,Jackson,MS,39202,Private Not-For-Profit,32,1928,2257844,12190,43.023255814
 2003,Delta State University,Cleveland,MS,38733,Public,21,3193,3882452,3348,49.3282149712
 2003,Jackson State University,Jackson,MS,39217,Public,16,6735,14097090,3477,36.8811881188
-2003,Millsaps College,Jackson,MS,39210-000,Private Not-For-Profit,31,1182,,17372,69.5652173913
 2003,University of Mississippi Main Campus,University,MS,38677-184,Public,15,12155,7454206,3916,55.8192090395
 2003,Mississippi University for Women,Columbus,MS,39701,Public,22,1758,2481635,3298,47.0852017937
 2003,Mississippi Valley State University,Itta Bena,MS,38941-140,Public,32,2825,9266135,3411,36.7346938776
@@ -600,7 +574,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Rust College,Holly Springs,MS,38635,Private Not-For-Profit,32,809,1885409,8200,28.7804878049
 2003,University of Southern Mississippi,Hattiesburg,MS,39406-000,Public,15,13357,14710004,3782,46.4231354642
 2003,Tougaloo College,Tougaloo,MS,39174,Private Not-For-Profit,31,815,1878049,7690,47.0873786408
-2003,William Carey College,Hattiesburg,MS,39401-549,Private Not-For-Profit,21,1872,,7650,32.6086956522
 2003,Avila University,Kansas City,MO,64145-169,Private Not-For-Profit,21,1231,929691,14160,36.4583333333
 2003,Central Methodist University-College of Liberal Arts & Sciences,Fayette,MO,65248-119,Private Not-For-Profit,32,1189,1327009,12840,42.4892703863
 2003,Central Missouri State University,Warrensburg,MO,64093,Public,21,8642,6671355,3288,49.5072024261
@@ -656,7 +629,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,University of Nevada-Reno,Reno,NV,89557,Public,15,12177,3767593,2626,48.3261802575
 2003,Colby-Sawyer College,New London,NH,03257-783,Private Not-For-Profit,32,925,444350,21140,58.4033613445
 2003,Daniel Webster College,Nashua,NH,03063-130,Private Not-For-Profit,32,926,429569,19000,45.6140350877
-2003,Dartmouth College,Hanover,NH,03755-352,Private Not-For-Profit,16,5507,,27771,94.7802197802
 2003,Franklin Pierce College,Rindge,NH,03461-006,Private Not-For-Profit,31,2392,1617402,20525,44.4660194175
 2003,Hesser College,Manchester,NH,03103-996,Private For-Profit,40,2265,2258004,11290,38.2978723404
 2003,New England College,Henniker,NH,03242,Private Not-For-Profit,32,885,535081,20326,43.5028248588
@@ -668,7 +640,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Caldwell College,Caldwell,NJ,07006-619,Private Not-For-Profit,32,1566,1014132,16100,42.0634920635
 2003,Centenary College,Hackettstown,NJ,07840,Private Not-For-Profit,32,1507,731151,16400,44.2307692308
 2003,Drew University,Madison,NJ,07940,Private Not-For-Profit,31,2166,675125,26346,74.4019138756
-2003,Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,07666,Private Not-For-Profit,21,7081,,19074,42.8571428571
 2003,Felician College,Lodi,NJ,07644,Private Not-For-Profit,32,1215,1060981,13450,30.3571428571
 2003,Georgian Court University,Lakewood,NJ,08701-269,Private Not-For-Profit,21,1953,1300030,14855,60.3603603604
 2003,Rowan University,Glassboro,NJ,08028,Public,21,7945,5084000,6658,59.9229287091
@@ -679,7 +650,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,New Jersey Institute of Technology,Newark,NJ,07102,Public,16,6797,3931000,7906,48.5915492958
 2003,Princeton University,Princeton,NJ,08544-007,Private Not-For-Profit,15,6646,971000,27230,96.545615589
 2003,Ramapo College of New Jersey,Mahwah,NJ,07430-168,Public,32,4488,2402000,6775,52.0971302428
-2003,Rider University,Lawrenceville,NJ,08648-309,Private Not-For-Profit,21,4399,,19700,60.9853528628
 2003,Rutgers University-Camden,Camden,NJ,08102,Public,21,43416,28608000,7126,69.3664271718
 2003,Saint Peters College,Jersey City,NJ,07306-599,Private Not-For-Profit,21,2422,2601444,17358,43.9393939394
 2003,Seton Hall University,South Orange,NJ,07079-269,Private Not-For-Profit,16,7574,3019000,20830,59.375
@@ -699,7 +669,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Alfred University,Alfred,NY,14802-120,Private Not-For-Profit,21,1478,1881702,20656,63.3832976445
 2003,Bard College,Annandale-On-Hudson,NY,12504-500,Private Not-For-Profit,31,1672,694199,27450,67.619047619
 2003,Barnard College,New York,NY,10027-659,Private Not-For-Profit,31,2265,1222345,25270,84.4086021505
-2003,Boricua College,New York,NY,10032-156,Private Not-For-Profit,33,1217,,7375,46.0526315789
 2003,Canisius College,Buffalo,NY,14208-109,Private Not-For-Profit,21,4275,2358951,18738.794921875,67.5159235669
 2003,Cazenovia College,Cazenovia,NY,13035,Private Not-For-Profit,33,864,980176,16000,72.1649484536
 2003,Clarkson University,Potsdam,NY,13699-555,Private Not-For-Profit,16,3081,1801544,22635,63.8888888889
@@ -717,7 +686,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Elmira College,Elmira,NY,14901,Private Not-For-Profit,32,1487,871373,24570,59.3495934959
 2003,Five Towns College,Dix Hills,NY,11746-587,Private For-Profit,33,1072,954985,11720,36.7816091954
 2003,Fordham University,Bronx,NY,10458,Private Not-For-Profit,15,12622,5569552,23463,75.5989911728
-2003,Hamilton College,Clinton,NY,13323,Private Not-For-Profit,31,1838,,28760,87.0897155361
 2003,Hartwick College,Oneonta,NY,13820-402,Private Not-For-Profit,31,1320,1138523,27015,61.3402061856
 2003,Hobart William Smith Colleges,Geneva,NY,14456,Private Not-For-Profit,31,1881,1062877,27348,71.4025500911
 2003,Hofstra University,Hempstead,NY,11549,Private Not-For-Profit,16,11279,5970279,16542,56.2248995984
@@ -740,7 +708,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Mount Saint Mary College,Newburgh,NY,12550,Private Not-For-Profit,21,1973,1533599,13335,56.9230769231
 2003,College of Mount Saint Vincent,Bronx,NY,10471-109,Private Not-For-Profit,22,1248,1688067,18240,56.8888888889
 2003,Nazareth College of Rochester,Rochester,NY,14618-379,Private Not-For-Profit,21,2437,1466143,16376,72.0797720798
-2003,The College of New Rochelle,New Rochelle,NY,10805-233,Private Not-For-Profit,21,5639,,13250,34.1688654354
 2003,The New School,New York,NY,10011,Private Not-For-Profit,16,6727,3130329,24400,59.1743119266
 2003,New York University,New York,NY,10012-109,Private Not-For-Profit,15,31917,9676345,26646,78.59725235
 2003,Niagara University,Niagara University,NY,14109,Private Not-For-Profit,21,3153,1864152,16550,56.4722617354
@@ -790,10 +757,9 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Union College,Schenectady,NY,12308-231,Private Not-For-Profit,31,2383,866322,27514,83.1094049904
 2003,United Talmudical Seminary,Brooklyn,NY,11211,Private Not-For-Profit,51,1474,6129736,5000,59.7633136095
 2003,United States Merchant Marine Academy,Kings Point,NY,11024-169,Public,59,905,110092,2635,73.8805970149
-2003,United States Military Academy,West  Point,NY,10996-210,Public,59,4041,,0,81.5881326353
 2003,Utica College,Utica,NY,13502-489,Private Not-For-Profit,32,2105,2556080,19118,59.6875
 2003,Vassar College,Poughkeepsie,NY,12604,Private Not-For-Profit,31,2435,797188,27960,88.5448916409
-2003,School of Visual Arts,New York,NY,10010,Private For-Profit,56,3873,2117077.25,17830,61.8798955614
+2003,School of Visual Arts,New York,NY,10010,Private For-Profit,56,3873,2117077,17830,61.8798955614
 2003,Wagner College,Staten Island,NY,10301-449,Private Not-For-Profit,21,2011,735929,21500,66.2468513854
 2003,Yeshiva University,New York,NY,10033-329,Private Not-For-Profit,15,5574,1014519,19960,76.0744985673
 2003,Appalachian State University,Boone,NC,28608,Public,21,13028,5437986,2795,61.1753817677
@@ -810,7 +776,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Gardner-Webb University,Boiling Springs,NC,28017,Private Not-For-Profit,21,2984,2307620,13295,48.0662983425
 2003,Greensboro College,Greensboro,NC,27401-187,Private Not-For-Profit,31,1014,901413,14650,29.95951417
 2003,Guilford College,Greensboro,NC,27410-410,Private Not-For-Profit,31,1608,1332886,18366,57.0934256055
-2003,High Point University,High Point,NC,27262-359,Private Not-For-Profit,32,2502,,13900,50.6880733945
 2003,Johnson C Smith University,Charlotte,NC,28216,Private Not-For-Profit,32,1448,3190234,12444,40.2631578947
 2003,Lees-McRae College,Banner Elk,NC,28604-012,Private Not-For-Profit,31,839,656721,13588,38.679245283
 2003,Lenoir-Rhyne College,Hickory,NC,28603,Private Not-For-Profit,32,1317,917797,14986,55.2287581699
@@ -818,7 +783,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Mars Hill College,Mars Hill,NC,28754,Private Not-For-Profit,32,1167,1260736,14500,39.1634980989
 2003,Meredith College,Raleigh,NC,27607-529,Private Not-For-Profit,21,1953,1156091,15100,70.5741626794
 2003,Methodist College,Fayetteville,NC,28311-142,Private Not-For-Profit,32,1886,1632058,14990,34.0974212034
-2003,Montreat College,Montreat,NC,28757-126,Private Not-For-Profit,55,1014,,13448,36.9565217391
 2003,Mount Olive College,Mount Olive,NC,28365-091,Private Not-For-Profit,32,1944,1558875,10010,30.1470588235
 2003,North Carolina A & T State University,Greensboro,NC,27411,Public,21,8293,10912302,2564,44.0347071584
 2003,University of North Carolina at Asheville,Asheville,NC,28804-851,Public,31,2906,1973369,2884,51.4893617021
@@ -838,7 +802,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Shaw University,Raleigh,NC,27601,Private Not-For-Profit,32,2437,5317885,8898,25.6578947368
 2003,Wake Forest University,Winston Salem,NC,27106,Private Not-For-Profit,16,6164,793461,24750,87.1101871102
 2003,Warren Wilson College,Swannanoa,NC,28778-209,Private Not-For-Profit,22,832,478974,15848,45.0261780105
-2003,Wingate University,Wingate,NC,28174-015,Private Not-For-Profit,32,1341,,14350,49.3243243243
 2003,Winston-Salem State University,Winston-Salem,NC,27110-000,Public,32,3077,5241775,2326,47.6288659794
 2003,Western Carolina University,Cullowhee,NC,28723-964,Public,21,6012,4102345,2610,48.8562091503
 2003,Dickinson State University,Dickinson,ND,58601-489,Public,32,1938,2212929,2798,29.4915254237
@@ -882,7 +845,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Muskingum College,New Concord,OH,43762,Private Not-For-Profit,31,1786,1236006,13860,63.3734939759
 2003,Oberlin College,Oberlin,OH,44074,Private Not-For-Profit,31,2797,1187079,28050,83.0334190231
 2003,Ohio Dominican University,Columbus,OH,43219,Private Not-For-Profit,32,1917,1805388,16200,50.0
-2003,Ohio Northern University,Ada,OH,45810-159,Private Not-For-Profit,32,3316,,23310,65.4159869494
 2003,Ohio State University-Main Campus,Columbus,OH,43210,Public,15,51353,24268676,5691,55.5007535279
 2003,Ohio University-Main Campus,Athens,OH,45701-297,Public,15,25714,15654190,6336,59.6861091591
 2003,Ohio Wesleyan University,Delaware,OH,43015-237,Private Not-For-Profit,31,1916,923064,24000,66.6086956522
@@ -913,7 +875,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Oklahoma Christian University,Edmond,OK,73013-110,Private Not-For-Profit,32,1921,1800893,12700,30.1270417423
 2003,Oklahoma Panhandle State University,Goodwell,OK,73939-043,Public,32,987,1313464,2002,4.34782608696
 2003,Oklahoma State University-Main Campus,Stillwater,OK,74078,Public,15,20234,12460740,3025,58.3369237398
-2003,Oklahoma Baptist University,Shawnee,OK,74804,Private Not-For-Profit,32,1609,,11088,54.1850220264
 2003,Oklahoma City University,Oklahoma City,OK,73106-140,Private Not-For-Profit,21,3108,817036,12130,52.6785714286
 2003,University of Oklahoma Norman Campus,Norman,OK,73019-307,Public,15,22289,12084000,2929,53.8860103627
 2003,Oral Roberts University,Tulsa,OK,74171,Private Not-For-Profit,21,3716,2948536,12980,50.390625
@@ -930,9 +891,7 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Oregon Institute of Technology,Klamath Falls,OR,97601-880,Public,54,2457,3140528,3843,42.474916388
 2003,Oregon State University,Corvallis,OR,97331,Public,15,17486,11828466,4014,60.5671482076
 2003,University of Oregon,Eugene,OR,97403,Public,15,18393,10871345,4230,59.8154362416
-2003,Pacific University,Forest Grove,OR,97116,Private Not-For-Profit,21,2222,,19311,63.601532567
 2003,Portland State University,Portland,OR,97201,Public,16,15690,13878627,3885,33.2436069987
-2003,University of Portland,Portland,OR,97203-579,Private Not-For-Profit,21,2927,,21180,66.6037735849
 2003,Reed College,Portland,OR,97202-819,Private Not-For-Profit,31,1337,596193,27560,71.4285714286
 2003,Southern Oregon University,Ashland,OR,97520,Public,21,4506,4637317,3687,34.65085639
 2003,Willamette University,Salem,OR,97301,Private Not-For-Profit,31,2324,991207,24172,80.243902439
@@ -952,7 +911,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Carlow University,Pittsburgh,PA,15213-316,Private Not-For-Profit,21,1459,1713961,14430,50.0
 2003,Carnegie Mellon University,Pittsburgh,PA,15213-389,Private Not-For-Profit,15,8687,1795223,27116,81.4173228346
 2003,Cedar Crest College,Allentown,PA,18104-619,Private Not-For-Profit,32,1135,1212083,19715,63.5897435897
-2003,Chatham College,Pittsburgh,PA,15232,Private Not-For-Profit,31,837,,19742,61.9565217391
 2003,Chestnut Hill College,Philadelphia,PA,19118-269,Private Not-For-Profit,21,1020,872096,18150,65.2173913043
 2003,Cheyney University of Pennsylvania,Cheyney,PA,19319-020,Public,21,1262,2785221,5133,29.2372881356
 2003,Clarion University of Pennsylvania,Clarion,PA,16214,Public,21,5919,4883836,5740,54.5762711864
@@ -968,7 +926,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Gannon University,Erie,PA,16541,Private Not-For-Profit,21,2783,2014000,15780,65.9448818898
 2003,Geneva College,Beaver Falls,PA,15010-359,Private Not-For-Profit,22,1953,1531354,14780,55.6634304207
 2003,Gettysburg College,Gettysburg,PA,17325-148,Private Not-For-Profit,31,2359,696190,27070,75.1552795031
-2003,Grove City College,Grove City,PA,16127-210,Private Not-For-Profit,32,2250,,8776,85.6603773585
 2003,Gwynedd Mercy College,Gwynedd Valley,PA,19437-090,Private Not-For-Profit,22,1667,873789,16100,80.0
 2003,Haverford College,Haverford,PA,19041-139,Private Not-For-Profit,31,1105,427191,27260,91.9463087248
 2003,Holy Family University,Philadelphia,PA,19114-200,Private Not-For-Profit,21,1724,1033532,14490,66.8449197861
@@ -979,7 +936,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Kutztown University of Pennsylvania,Kutztown,PA,19530-073,Public,21,7624,3891211,5477,47.8957915832
 2003,La Roche College,Pittsburgh,PA,15237-589,Private Not-For-Profit,21,1634,918691,13190,61.4130434783
 2003,La Salle University,Philadelphia,PA,19141-119,Private Not-For-Profit,21,4436,2385000,21420,70.7434052758
-2003,Lafayette College,Easton,PA,18042-176,Private Not-For-Profit,31,2251,,26044,85.7394366197
 2003,Lebanon Valley College,Annville,PA,17003-140,Private Not-For-Profit,22,1744,728216,21200,68.9768976898
 2003,Lehigh University,Bethlehem,PA,18015,Private Not-For-Profit,15,5967,1386000,26180,85.6882406563
 2003,Lincoln University of Pennsylvania,Lincoln University,PA,19352-099,Public,21,1848,3077404,5452,38.8185654008
@@ -1027,7 +983,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,York College Pennsylvania,York,PA,17405-719,Private Not-For-Profit,22,4642,1672661,8000,63.082437276
 2003,Brown University,Providence,RI,02912,Private Not-For-Profit,15,7614,1774000,28480,95.6871345029
 2003,Bryant University,Smithfield,RI,02917-128,Private Not-For-Profit,21,2964,981000,19776,65.7512116317
-2003,Johnson & Wales University,Providence,RI,02903-370,Private Not-For-Profit,21,14058,,15192,69.3342299933
 2003,Providence College,Providence,RI,02918,Private Not-For-Profit,21,4375,840679,20820,84.8049281314
 2003,Rhode Island College,Providence,RI,02908,Public,21,6472,4244354,3761,41.8502202643
 2003,University of Rhode Island,Kingston,RI,02881,Public,15,11890,5821910,5854,55.8195926285
@@ -1079,7 +1034,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Carson-Newman College,Jefferson City,TN,37760,Private Not-For-Profit,21,2488,1912164,12890,55.8352402746
 2003,Christian Brothers University,Memphis,TN,38104,Private Not-For-Profit,22,1574,1283492,16240,73.125
 2003,Cumberland University,Lebanon,TN,37087,Private Not-For-Profit,22,1069,1087216,11660,37.0967741935
-2003,Lipscomb University,Nashville,TN,37204-395,Private Not-For-Profit,22,2316,,11356,50.9090909091
 2003,East Tennessee State University,Johnson City,TN,37614-000,Public,16,9774,8622888,3311,38.5843164469
 2003,Freed-Hardeman University,Henderson,TN,38340-239,Private Not-For-Profit,21,1649,1424460,10158,56.8027210884
 2003,Lambuth University,Jackson,TN,38301,Private Not-For-Profit,32,842,812552,10500,41.5887850467
@@ -1091,7 +1045,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Middle Tennessee State University,Murfreesboro,TN,37132,Public,16,18446,12778374,3442,39.7254743642
 2003,Milligan College,Milligan College,TN,37682,Private Not-For-Profit,22,815,582684,14340,46.8599033816
 2003,Rhodes College,Memphis,TN,38112-169,Private Not-For-Profit,31,1538,392942,21566,74.4075829384
-2003,Sewanee:  The University of the South,Sewanee,TN,37383-100,Private Not-For-Profit,31,1430,,22570,83.2417582418
 2003,Southern Adventist University,Collegedale,TN,37315-037,Private Not-For-Profit,32,2076,1404515,12220,59.9315068493
 2003,The University of Tennessee,Knoxville,TN,37996,Public,15,37662,20682984,4056,51.9564140664
 2003,Tennessee State University,Nashville,TN,37209-156,Public,16,7536,10506222,3272,45.5284552846
@@ -1099,9 +1052,7 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Trevecca Nazarene University,Nashville,TN,37210,Private Not-For-Profit,21,1654,882092,11390,36.9318181818
 2003,Tusculum College,Greeneville,TN,37743,Private Not-For-Profit,22,1876,1581131,13400,45.0
 2003,Union University,Jackson,TN,38305-369,Private Not-For-Profit,22,2311,937410,13700,52.9761904762
-2003,Vanderbilt University,Nashville,TN,37240,Private Not-For-Profit,15,10423,,27088,83.2669322709
 2003,Abilene Christian University,Abilene,TX,79699,Private Not-For-Profit,21,4381,2829431,12430,54.5643153527
-2003,Angelo State University,San Angelo,TX,76909,Public,21,5422,,2506,34.8013816926
 2003,Austin College,Sherman,TX,75090-440,Private Not-For-Profit,31,1271,795709,16537,74.4479495268
 2003,Baylor University,Waco,TX,76798,Private Not-For-Profit,16,13617,5240000,17164,70.2995008319
 2003,Concordia University at Austin,Austin,TX,78705-279,Private Not-For-Profit,32,862,612275,14410,22.4
@@ -1129,7 +1080,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Prairie View A & M University,Prairie View,TX,77446,Public,21,6226,8946154,3232,37.1090448014
 2003,Rice University,Houston,TX,77005,Private Not-For-Profit,15,4590,848780,17692,90.4694167852
 2003,Saint Edward's University,Austin,TX,78704,Private Not-For-Profit,22,3186,2557823,13620,53.2033426184
-2003,University of St Thomas,Houston,TX,77006-469,Private Not-For-Profit,21,2996,,13912,46.8085106383
 2003,Sam Houston State University,Huntsville,TX,77341,Public,21,11040,7189508,2848,34.5892526251
 2003,St Marys University,San Antonio,TX,78228-857,Private Not-For-Profit,21,3729,2874359,15227,63.3136094675
 2003,Southern Methodist University,Dallas,TX,75275-022,Private Not-For-Profit,15,9180,2472000,21942,71.6920609463
@@ -1183,7 +1133,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Liberty University,Lynchburg,VA,24502,Private Not-For-Profit,21,6516,5575680,10340,44.0201005025
 2003,Longwood University,Farmville,VA,23909,Public,21,3795,1389231,4661,61.2637362637
 2003,Lynchburg College,Lynchburg,VA,24501-319,Private Not-For-Profit,21,1725,771868,20185,56.1844863732
-2003,Mary Baldwin College,Staunton,VA,24401,Private Not-For-Profit,22,1348,,17690,53.3653846154
 2003,University of Mary Washington,Fredericksburg,VA,22401-530,Public,22,4032,908589,3934,71.0396039604
 2003,Marymount University,Arlington,VA,22207-429,Private Not-For-Profit,21,2714,1218991,15732,54.4061302682
 2003,Norfolk State University,Norfolk,VA,23504-800,Public,21,5763,8642003,3296,28.4341978866
@@ -1192,7 +1141,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Randolph-Macon College,Ashland,VA,23005-550,Private Not-For-Profit,31,1137,389450,20045,86.6863905325
 2003,University of Richmond,Richmond,VA,23173,Private Not-For-Profit,31,3906,489821,22995,81.4666666667
 2003,Roanoke College,Salem,VA,24153-379,Private Not-For-Profit,31,1755,918932,19716,60.502283105
-2003,Shenandoah University,Winchester,VA,22601-519,Private Not-For-Profit,21,2152,,17510,42.4124513619
 2003,The University of Virginia's College at Wise,Wise,VA,24293-440,Public,31,1441,1793189,3844,41.9141914191
 2003,Virginia Intermont College,Bristol,VA,24201,Private Not-For-Profit,32,939,1139843,13220,29.2134831461
 2003,Virginia Polytechnic Institute and State University,Blacksburg,VA,24061-013,Public,15,25981,7381165,3936,74.2152466368
@@ -1209,7 +1157,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2003,Gonzaga University,Spokane,WA,99258-000,Private Not-For-Profit,21,4591,2140077,19495,78.8213627993
 2003,Heritage University,Toppenish,WA,98948,Private Not-For-Profit,21,984,1501759,6395,9.09090909091
 2003,Northwest University,Kirkland,WA,98083-057,Private Not-For-Profit,32,1074,633878,12758,36.8098159509
-2003,Pacific Lutheran University,Tacoma,WA,98447-000,Private Not-For-Profit,21,3167,,18500,68.4848484848
 2003,University of Puget Sound,Tacoma,WA,98416,Private Not-For-Profit,31,2756,930000,23945,77.4143302181
 2003,Saint Martin's University,Lacey,WA,98503-129,Private Not-For-Profit,21,1283,879537,16860,39.4366197183
 2003,Seattle Pacific University,Seattle,WA,98119-199,Private Not-For-Profit,21,3119,1231000,17682,62.5

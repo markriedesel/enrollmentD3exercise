@@ -25,7 +25,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,University of Alaska Fairbanks,Fairbanks,AK,99775-748,Public,16,18722,9239714,4355,24.8
 2005,Arizona State University at the Tempe Campus,Tempe,AZ,85287,Public,15,42189,31995000,4064,54.9333333333
 2005,University of Arizona,Tucson,AZ,85721-006,Public,15,32983,18446000,4098,58.9153335934
-2005,DeVry University-Arizona,Phoenix,AZ,85021-299,Private For-Profit,54,1495,,11490,35.1648351648
 2005,Grand Canyon University,Phoenix,AZ,85017,Private For-Profit,21,2683,720203,14500,48.7179487179
 2005,Northern Arizona University,Flagstaff,AZ,86011-413,Public,16,15440,12296880,4073,48.1498612396
 2005,University of Phoenix-Phoenix-Hohokam Campus,Phoenix,AZ,85040-195,Private For-Profit,55,13490,6458448,9090,8.57142857143
@@ -81,7 +80,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Chapman University,Orange,CA,92866,Private Not-For-Profit,21,9224,3134560,26150,65.6880733945
 2005,Concordia University,Irvine,CA,92612-329,Private Not-For-Profit,22,1644,919697,18800,56.6137566138
 2005,Claremont McKenna College,Claremont,CA,91711-640,Private Not-For-Profit,31,1124,408825,29210,87.5502008032
-2005,DeVry University-California,Pomona,CA,91768-264,Private For-Profit,32,5484,,12170,38.8471177945
 2005,Dominican University of California,San Rafael,CA,94901-229,Private Not-For-Profit,21,1609,1037202,24454,57.6576576577
 2005,Fresno Pacific University,Fresno,CA,93702-470,Private Not-For-Profit,21,1426,1679174,18728,57.4074074074
 2005,Golden Gate University-San Francisco,San Francisco,CA,94105-296,Private Not-For-Profit,55,2516,149956,11610,63.6363636364
@@ -122,7 +120,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,University of Southern California,Los Angeles,CA,90089,Private Not-For-Profit,15,29809,8820595,30512,82.8136073707
 2005,Westmont College,Santa Barbara,CA,93108-108,Private Not-For-Profit,31,1365,443122,26240,72.1518987342
 2005,Whittier College,Whittier,CA,90608,Private Not-For-Profit,31,2405,1050551,25548,56.914893617
-2005,Woodbury University,Burbank,CA,91510-784,Private Not-For-Profit,22,1201,,21858,51.4925373134
 2005,Adams State College,Alamosa,CO,81102,Public,21,4521,3073871,2602,39.0581717452
 2005,University of Colorado at Denver and Health Sciences Center,Denver,CO,80217-336,Public,16,10708,5133511,4093,41.8410041841
 2005,University of Colorado at Colorado Springs,Colorado Springs,CO,80933-715,Public,21,6653,4281310,4036,39.2961876833
@@ -142,7 +139,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,University of Northern Colorado,Greeley,CO,80639,Public,16,11630,5293175,3370,45.8315146224
 2005,Regis University,Denver,CO,80221-109,Private Not-For-Profit,21,7999,2455395,22400,59.0604026846
 2005,Colorado State University-Pueblo,Pueblo,CO,81001-490,Public,21,4365,4878645,3189,34.6972176759
-2005,United States Air Force Academy,Usafa,CO,80840-500,Public,59,4266,,2500,78.0392156863
 2005,Western State College of Colorado,Gunnison,CO,81231,Public,31,2170,1446130,2764,36.3157894737
 2005,Albertus Magnus College,New Haven,CT,06511-118,Private Not-For-Profit,32,2272,1154191,16715,57.0
 2005,University of Bridgeport,Bridgeport,CT,06604-562,Private Not-For-Profit,16,2538,1552000,19525,36.8421052632
@@ -159,7 +155,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Saint Joseph College,West Hartford,CT,06117-279,Private Not-For-Profit,21,1280,967000,21970,56.25
 2005,Southern Connecticut State University,New Haven,CT,06515-135,Public,21,9332,4568837,5622,35.7027463651
 2005,Trinity College,Hartford,CT,06106-310,Private Not-For-Profit,31,2140,677941,31940,84.7787610619
-2005,United States Coast Guard Academy,New London,CT,06320-419,Public,59,994,,0,72.3484848485
 2005,Wesleyan University,Middletown,CT,06459,Private Not-For-Profit,31,3067,972000,31650,89.7540983607
 2005,Western Connecticut State University,Danbury,CT,06810-686,Public,21,4715,1788801,5661,34.5875542692
 2005,Yale University,New Haven,CT,06520,Private Not-For-Profit,15,11276,1540000,29820,96.4653902798
@@ -175,7 +170,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Georgetown University,Washington,DC,20057,Private Not-For-Profit,15,12473,1817000,30163,93.2157394844
 2005,Howard University,Washington,DC,20059-000,Private Not-For-Profit,15,10040,7336946,11645,67.3425827108
 2005,Strayer University-Washington Campus,Washington,DC,20005,Private For-Profit,22,12925,22200,9862,22.9508196721
-2005,Trinity Washington University,Washington,DC,20017-109,Private Not-For-Profit,21,1098,,16860,55.2380952381
 2005,The Art Institute of Fort Lauderdale Inc,Fort Lauderdale,FL,33316-300,Private For-Profit,56,2351,4547972,16475,45.2290076336
 2005,Barry University,Miami,FL,33161-669,Private Not-For-Profit,21,7282,5897462,21575,50.2512562814
 2005,Bethune Cookman College,Daytona Beach,FL,32114-309,Private Not-For-Profit,32,2763,6332322,10610,38.9955686854
@@ -227,7 +221,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Columbus State University,Columbus,GA,31907-564,Public,21,5541,6111131,2808,28.2282282282
 2005,Covenant College,Lookout Mountain,GA,30750-416,Private Not-For-Profit,32,1284,678826,19180,67.5438596491
 2005,Dalton State College,Dalton,GA,30720-379,Public,40,2775,3031426,1670,25.0
-2005,DeVry University-Georgia,Decatur,GA,30030-219,Private For-Profit,54,3661,,11490,30.7799442897
 2005,South University-Savannah,Savannah,GA,31406,Private For-Profit,40,1050,2116608,14805,35.0
 2005,Emory University,Atlanta,GA,30322,Private Not-For-Profit,15,11279,1150841,29322,90.6695156695
 2005,Fort Valley State University,Fort Valley,GA,31030-431,Public,21,2283,4573508,2916,25.1231527094
@@ -301,7 +294,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Northern Illinois University,Dekalb,IL,60115-282,Public,15,20875,13421933,6618,53.317373461
 2005,Northwestern University,Evanston,IL,60208,Private Not-For-Profit,15,15826,2117000,30085,93.3367503844
 2005,Northeastern Illinois University,Chicago,IL,60625-469,Public,21,8126,7995466,3596,16.8610816543
-2005,Olivet Nazarene University,Bourbonnais,IL,60914-227,Private Not-For-Profit,21,3209,,15740,52.9268292683
 2005,Quincy University,Quincy,IL,62301-269,Private Not-For-Profit,22,1089,840992,17650,53.1135531136
 2005,The Illinois Institute of Art,Chicago,IL,60654-159,Private For-Profit,56,3115,3819921,17301,47.8908188586
 2005,Robert Morris College,Chicago,IL,60605,Private Not-For-Profit,55,5232,11953047,14250,95.0530035336
@@ -327,7 +319,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Goshen College,Goshen,IN,46526-479,Private Not-For-Profit,31,846,537408,18200,61.8181818182
 2005,Grace College and Theological Seminary,Winona Lake,IN,46590,Private Not-For-Profit,32,1110,578123,15030,64.8351648352
 2005,Hanover College,Hanover,IN,47243-010,Private Not-For-Profit,31,1056,556057,20600,69.4117647059
-2005,Huntington University,Huntington,IN,46750,Private Not-For-Profit,32,856,,18490,68.3257918552
 2005,Indiana University-Purdue University-Fort Wayne,Fort Wayne,IN,46805-149,Public,21,8758,7639594,4780,20.0689061154
 2005,Indiana University-Purdue University-Indianapolis,Indianapolis,IN,46202-289,Public,16,22214,15123312,5930,26.0946483857
 2005,University of Indianapolis,Indianapolis,IN,46227-369,Private Not-For-Profit,21,3210,2334593,17300,52.7131782946
@@ -414,7 +405,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Murray State University,Murray,KY,42071-331,Public,21,8528,6668014,3984,57.1584699454
 2005,Northern Kentucky University,Highland Heights,KY,41099,Public,21,11266,7642000,4368,41.9982316534
 2005,Pikeville College,Pikeville,KY,41501,Private Not-For-Profit,32,1036,1491002,10500,37.1584699454
-2005,The Southern Baptist Theological Seminary,Louisville,KY,40280-000,Private Not-For-Profit,51,2461,,4600,43.6893203883
 2005,Sullivan University,Louisville,KY,40205-301,Private For-Profit,33,4081,6279148,13165,90.6103286385
 2005,Thomas More College,Crestview Hills,KY,41017-349,Private Not-For-Profit,32,1303,660418,17200,52.4096385542
 2005,Transylvania University,Lexington,KY,40508-179,Private Not-For-Profit,31,1107,557131,18590,64.7058823529
@@ -468,11 +458,9 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,St Mary's College of Maryland,Saint Mary's City,MD,20686-300,Public,31,1872,635907,9617,72.1014492754
 2005,Sojourner-Douglass College,Baltimore,MD,21205-189,Private Not-For-Profit,59,874,2581111,6190,24.6913580247
 2005,Towson University,Towson,MD,21252-000,Public,21,14900,5759095,6672,56.3005230623
-2005,United States Naval Academy,Annapolis,MD,21402-500,Public,59,4349,,2200,86.4391951006
 2005,Villa Julie College,Stevenson,MD,21153-064,Private Not-For-Profit,32,2368,1181139,14653,65.3110047847
 2005,Washington College,Chestertown,MD,21620-143,Private Not-For-Profit,31,1360,265100,26550,68.085106383
 2005,McDaniel College,Westminster,MD,21157,Private Not-For-Profit,31,2339,689000,24800,74.0291262136
-2005,American International College,Springfield,MA,01109,Private Not-For-Profit,21,1353,,18544,42.9166666667
 2005,Amherst College,Amherst,MA,01002-500,Private Not-For-Profit,31,1640,612268,31364,96.2085308057
 2005,Anna Maria College,Paxton,MA,01612-119,Private Not-For-Profit,21,813,433722,20135,63.4328358209
 2005,Assumption College,Worcester,MA,01609-129,Private Not-For-Profit,21,2456,663364,22425,70.4391891892
@@ -528,7 +516,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Wheaton College,Norton,MA,02766,Private Not-For-Profit,31,1528,624325,30580,75.1756440281
 2005,Wheelock College,Boston,MA,02215-417,Private Not-For-Profit,21,862,478025,22500,54.128440367
 2005,Williams College,Williamstown,MA,01267,Private Not-For-Profit,31,2027,625908,29990,95.5882352941
-2005,Worcester Polytechnic Institute,Worcester,MA,01609,Private Not-For-Profit,16,3434,,29730,73.8670694864
 2005,Worcester State College,Worcester,MA,01602-259,Public,21,4044,2180871,4579,43.4977578475
 2005,Adrian College,Adrian,MI,49221-257,Private Not-For-Profit,31,976,830417,17600,49.6644295302
 2005,Albion College,Albion,MI,49224,Private Not-For-Profit,31,1858,784480,22918,71.7761557178
@@ -536,7 +523,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Andrews University,Berrien Springs,MI,49104,Private Not-For-Profit,16,2488,1820080,15470,51.724137931
 2005,Aquinas College,Grand Rapids,MI,49506-179,Private Not-For-Profit,22,1838,1103614,16992,48.7031700288
 2005,Baker College of Flint,Flint,MI,48507-998,Private Not-For-Profit,33,22869,38989704,6120,26.4705882353
-2005,Calvin College,Grand Rapids,MI,49546,Private Not-For-Profit,32,4042,,17770,70.821529745
 2005,Central Michigan University,Mount Pleasant,MI,48859,Public,16,22595,12556034,5365,55.3544942154
 2005,College for Creative Studies,Detroit,MI,48202,Private Not-For-Profit,56,1152,971956,21379,52.7950310559
 2005,Davenport University,Grand Rapids,MI,49512,Private Not-For-Profit,55,7270,17767562,8476,30.1324503311
@@ -616,7 +602,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Central Missouri State University,Warrensburg,MO,64093,Public,21,8417,6986215,4272,50.1132075472
 2005,Columbia College,Columbia,MO,65216,Private Not-For-Profit,32,8371,9350529,11589,40.4958677686
 2005,Culver-Stockton College,Canton,MO,63435-129,Private Not-For-Profit,32,812,888693,13390,54.8571428571
-2005,DeVry University-Missouri,Kansas City,MO,64131-362,Private For-Profit,32,1298,,11490,34.5588235294
 2005,Drury University,Springfield,MO,65802-379,Private Not-For-Profit,22,3628,4584726,14040,57.6419213974
 2005,Evangel University,Springfield,MO,65802,Private Not-For-Profit,32,1872,1600269,11985,62.0481927711
 2005,Fontbonne University,Saint Louis,MO,63105-309,Private Not-For-Profit,21,2261,1734805,15420,51.0638297872
@@ -671,7 +656,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,University of Nevada-Reno,Reno,NV,89557,Public,15,13039,4448617,3037,51.7053206003
 2005,Colby-Sawyer College,New London,NH,03257-783,Private Not-For-Profit,32,949,473867,23310,60.1694915254
 2005,Daniel Webster College,Nashua,NH,03063-130,Private Not-For-Profit,32,948,440474,21380,40.127388535
-2005,Dartmouth College,Hanover,NH,03755-352,Private Not-For-Profit,16,5617,,30465,93.4720908231
 2005,Franklin Pierce College,Rindge,NH,03461-006,Private Not-For-Profit,31,2298,1604515,22510,45.8158995816
 2005,Hesser College,Manchester,NH,03103-996,Private For-Profit,40,2572,3151973,11890,73.3870967742
 2005,New England College,Henniker,NH,03242,Private Not-For-Profit,32,1117,520010,21944,50.2512562814
@@ -682,7 +666,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Bloomfield College,Bloomfield,NJ,07003,Private Not-For-Profit,32,1896,3618401,13900,28.0991735537
 2005,Caldwell College,Caldwell,NJ,07006-619,Private Not-For-Profit,32,1551,1077061,18010,47.4903474903
 2005,Centenary College,Hackettstown,NJ,07840,Private Not-For-Profit,32,1983,1008000,19210,50.7352941176
-2005,DeVry University-New Jersey,North Brunswick,NJ,08902-336,Private For-Profit,40,1482,,11620,37.3134328358
 2005,Drew University,Madison,NJ,07940,Private Not-For-Profit,31,2315,626000,29546,73.2186732187
 2005,Fairleigh Dickinson University-Metropolitan Campus,Teaneck,NJ,07666,Private Not-For-Profit,21,7770,3775703,21734,48.9519112207
 2005,Felician College,Lodi,NJ,07644,Private Not-For-Profit,32,1358,1057452,15900,38.8392857143
@@ -772,9 +755,7 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Pratt Institute-Main,Brooklyn,NY,11205,Private Not-For-Profit,56,4219,2796624,26680,59.9290780142
 2005,Rensselaer Polytechnic Institute,Troy,NY,12180-359,Private Not-For-Profit,15,6302,2356000,29786,81.3303099017
 2005,Roberts Wesleyan College,Rochester,NY,14624,Private Not-For-Profit,21,1685,1333950,17840,58.3643122677
-2005,Rochester Institute of Technology,Rochester,NY,14623-560,Private Not-For-Profit,21,12854,,22413,58.0366774542
 2005,University of Rochester,Rochester,NY,14627-001,Private Not-For-Profit,15,7547,4381000,28982,80.2642444261
-2005,Russell Sage College,Troy,NY,12180,Private Not-For-Profit,32,2192,,22270,62.037037037
 2005,Saint Bonaventure University,Saint Bonaventure,NY,14778,Private Not-For-Profit,21,2533,1322218,19485,68.0769230769
 2005,St Francis College,Brooklyn Heights,NY,11201-990,Private Not-For-Profit,32,2122,2461701,11780,55.0632911392
 2005,St Lawrence University,Canton,NY,13617,Private Not-For-Profit,31,2189,1051459,30480,75.1304347826
@@ -812,8 +793,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Touro College,New York,NY,10010,Private Not-For-Profit,21,14873,16258000,10500,55.0135501355
 2005,Union College,Schenectady,NY,12308-231,Private Not-For-Profit,31,2173,896099,38703,84.6153846154
 2005,United Talmudical Seminary,Brooklyn,NY,11211,Private Not-For-Profit,51,1125,2908000,6000,18.7150837989
-2005,United States Merchant Marine Academy,Kings Point,NY,11024-169,Public,59,962,,0,72.6937269373
-2005,United States Military Academy,West  Point,NY,10996-210,Public,59,4183,,0,84.0604026846
 2005,Utica College,Utica,NY,13502-489,Private Not-For-Profit,32,2306,2684296,21270,56.9863013699
 2005,Vassar College,Poughkeepsie,NY,12604,Private Not-For-Profit,31,2438,744199,31350,91.4691943128
 2005,School of Visual Arts,New York,NY,10010,Private For-Profit,56,3294,2268044,19620,63.2295719844
@@ -884,7 +863,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,University of Dayton,Dayton,OH,45469,Private Not-For-Profit,16,9262,2295000,20250,79.0711009174
 2005,Defiance College,Defiance,OH,43512,Private Not-For-Profit,32,870,704141,18230,45.9770114943
 2005,Denison University,Granville,OH,43023-071,Private Not-For-Profit,31,2207,723343,27410,79.727427598
-2005,DeVry University-Ohio,Columbus,OH,43209-270,Private For-Profit,32,2811,,11490,34.9904397706
 2005,The University of Findlay,Findlay,OH,45840-369,Private Not-For-Profit,21,3638,1909971,20914,54.0
 2005,Franklin University,Columbus,OH,43215-539,Private Not-For-Profit,55,4407,4285000,7223,35.4838709677
 2005,Heidelberg College,Tiffin,OH,44883-246,Private Not-For-Profit,21,1234,1026325,14900,58.3011583012
@@ -935,7 +913,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Oklahoma Christian University,Edmond,OK,73013-110,Private Not-For-Profit,32,2042,1804707,13160,43.2773109244
 2005,Oklahoma Panhandle State University,Goodwell,OK,73939-043,Public,32,1125,1569367,2899,32.183908046
 2005,Oklahoma State University-Main Campus,Stillwater,OK,74078,Public,15,20653,13982820,4071,59.2486583184
-2005,Oklahoma Baptist University,Shawnee,OK,74804,Private Not-For-Profit,32,1515,,13106,53.5279805353
 2005,Oklahoma City University,Oklahoma City,OK,73106-140,Private Not-For-Profit,21,3158,1001732,16080,50.4347826087
 2005,University of Oklahoma Norman Campus,Norman,OK,73019-307,Public,15,23295,13049000,4140,56.2071116656
 2005,Oral Roberts University,Tulsa,OK,74171,Private Not-For-Profit,21,3393,2779813,15050,54.1484716157
@@ -974,7 +951,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Carlow University,Pittsburgh,PA,15213-316,Private Not-For-Profit,21,1539,1716734,16460,52.3076923077
 2005,Carnegie Mellon University,Pittsburgh,PA,15213-389,Private Not-For-Profit,15,8917,1924081,31036,85.577689243
 2005,Cedar Crest College,Allentown,PA,18104-619,Private Not-For-Profit,32,1270,1365398,21930,53.6697247706
-2005,Chatham College,Pittsburgh,PA,15232,Private Not-For-Profit,31,940,,21996,57.1428571429
 2005,Chestnut Hill College,Philadelphia,PA,19118-269,Private Not-For-Profit,21,1143,834106,20380,46.0784313725
 2005,Cheyney University of Pennsylvania,Cheyney,PA,19319-020,Public,21,1417,3286333,5565,34.2519685039
 2005,Clarion University of Pennsylvania,Clarion,PA,16214,Public,21,5781,5049646,6487,50.4792332268
@@ -990,7 +966,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Gannon University,Erie,PA,16541,Private Not-For-Profit,21,2826,2043000,18020,65.4545454545
 2005,Geneva College,Beaver Falls,PA,15010-359,Private Not-For-Profit,22,1942,1618426,16570,54.5977011494
 2005,Gettysburg College,Gettysburg,PA,17325-148,Private Not-For-Profit,31,2448,758874,29990,75.7971014493
-2005,Grove City College,Grove City,PA,16127-210,Private Not-For-Profit,32,2315,,9952,80.5460750853
 2005,Gwynedd Mercy College,Gwynedd Valley,PA,19437-090,Private Not-For-Profit,22,1932,896315,17425,73.0337078652
 2005,Haverford College,Haverford,PA,19041-139,Private Not-For-Profit,31,1172,344696,30270,88.3720930233
 2005,Immaculata University,Immaculata,PA,19345-070,Private Not-For-Profit,21,1868,613952,18000,59.5041322314
@@ -1104,7 +1079,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Carson-Newman College,Jefferson City,TN,37760,Private Not-For-Profit,21,1940,1804763,14420,57.8947368421
 2005,Christian Brothers University,Memphis,TN,38104,Private Not-For-Profit,22,1541,1481586,18230,60.2230483271
 2005,Cumberland University,Lebanon,TN,37087,Private Not-For-Profit,22,1110,1174805,12280,37.3563218391
-2005,Lipscomb University,Nashville,TN,37204-395,Private Not-For-Profit,22,2301,,13486,54.1176470588
 2005,East Tennessee State University,Johnson City,TN,37614-000,Public,16,10229,8998962,4059,39.3454038997
 2005,Fisk University,Nashville,TN,37208-450,Private Not-For-Profit,31,806,1205023,12450,57.6763485477
 2005,Freed-Hardeman University,Henderson,TN,38340-239,Private Not-For-Profit,21,1623,1316612,11960,55.2795031056
@@ -1117,7 +1091,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Middle Tennessee State University,Murfreesboro,TN,37132,Public,16,19559,14162130,4230,40.3984063745
 2005,Milligan College,Milligan College,TN,37682,Private Not-For-Profit,22,879,590820,16360,59.5238095238
 2005,Rhodes College,Memphis,TN,38112-169,Private Not-For-Profit,31,1618,442446,24274,79.9086757991
-2005,Sewanee:  The University of the South,Sewanee,TN,37383-100,Private Not-For-Profit,31,1467,,25580,81.8414322251
 2005,Southern Adventist University,Collegedale,TN,37315-037,Private Not-For-Profit,32,2139,1548602,13410,58.1151832461
 2005,The University of Tennessee,Knoxville,TN,37996,Public,15,38289,22345094,4748,52.3994811933
 2005,Tennessee State University,Nashville,TN,37209-156,Public,16,7526,11536473,4038,44.2392909897
@@ -1134,7 +1107,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,Texas A & M University-Corpus Christi,Corpus Christi,TX,78412-550,Public,21,6673,6976129,3848,37.3154362416
 2005,Dallas Baptist University,Dallas,TX,75211-929,Private Not-For-Profit,21,3251,2220569,11610,46.09375
 2005,University of Dallas,Irving,TX,75062-473,Private Not-For-Profit,31,2013,565094,19162,65.3721682848
-2005,DeVry University-Texas,Irving,TX,75063-243,Private For-Profit,54,2128,,11470,26.4864864865
 2005,East Texas Baptist University,Marshall,TX,75670-149,Private Not-For-Profit,32,1334,1647882,12000,48.6666666667
 2005,Texas A & M University-Commerce,Commerce,TX,75429-301,Public,16,6059,7904568,3834,34.2644320298
 2005,Hardin-Simmons University,Abilene,TX,79698,Private Not-For-Profit,21,2112,1740331,13375,51.3812154696
@@ -1338,7 +1310,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2005,University of Phoenix-Louisiana Campus,Metairie,LA,70001-208,Private For-Profit,-3,2585,3498603,9330,19.5945945946
 2005,University of Phoenix-Metro Detroit Campus,Troy,MI,48098-262,Private For-Profit,-3,5116,4125766,10710,12.4567474048
 2005,The Art Institute of Phoenix,Phoenix,AZ,85021-285,Private For-Profit,40,1102,1534781,22986,40.9090909091
-2005,DeVry Institute of Technology & Keller Graduate School of Management-New York,Long Island City,NY,11101-305,Private For-Profit,-3,1376,,12750,29.1228070175
 2005,University of Phoenix-Seattle Campus,Seattle,WA,98188-750,Private For-Profit,-3,2197,1046818,10290,6.71641791045
 2005,University of Phoenix-Central Florida Campus,Maitland,FL,32751-705,Private For-Profit,-3,9420,6469519,10170,6.57142857143
 2005,University of Phoenix-Oregon Campus,Tigard,OR,97223-836,Private For-Profit,-3,2067,1370794,9960,3.125

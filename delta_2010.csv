@@ -103,7 +103,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,Mount St Mary's College,Los Angeles,CA,90049-1599,Private Not-For-Profit,21,2093,4066905,28700,63.9534883721
 2010,Musicians Institute,Hollywood,CA,90028,Private For-Profit,56,1358,2223547,23500,50.0
 2010,National University,La Jolla,CA,92037-1011,Private Not-For-Profit,21,11224,7004908,10728,33.3333333333
-2010,Northwestern Polytechnic University,Fremont,CA,94539,Private Not-For-Profit,54,833,,7340,75.0
 2010,Notre Dame de Namur University,Belmont,CA,94002-1908,Private Not-For-Profit,21,1065,1311511,27110,48.4472049689
 2010,Occidental College,Los Angeles,CA,90041-3392,Private Not-For-Profit,31,1975,1719349,38935,84.6774193548
 2010,Otis College of Art and Design,Los Angeles,CA,90045-3505,Private Not-For-Profit,56,1204,2301891,31360,56.9105691057
@@ -149,7 +148,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,University of Northern Colorado,Greeley,CO,80639,Public,16,11024,10074848,5451,46.3930348259
 2010,Regis University,Denver,CO,80221-1099,Private Not-For-Profit,21,7423,4712999,29700,60.7427055703
 2010,Colorado State University-Pueblo,Pueblo,CO,81001-4901,Public,21,4976,8993343,5210,30.6772908367
-2010,United States Air Force Academy,USAFA,CO,80840-5002,Public,59,4620,,0,81.4665592264
 2010,Western State College of Colorado,Gunnison,CO,81231,Public,31,2111,1957021,6104,36.231884058
 2010,Albertus Magnus College,New Haven,CT,06511-1189,Private Not-For-Profit,32,1873,2443776,23126,52.0833333333
 2010,University of Bridgeport,Bridgeport,CT,06604-5620,Private Not-For-Profit,16,3833,4312000,25465,29.8755186722
@@ -166,7 +164,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,Saint Joseph College,West Hartford,CT,06117-2764,Private Not-For-Profit,21,1319,1354000,27202,41.7989417989
 2010,Southern Connecticut State University,New Haven,CT,06515-1355,Public,21,9652,8738835,7578,42.0487106017
 2010,Trinity College,Hartford,CT,06106-3100,Private Not-For-Profit,31,2273,1381277,40840,85.9402460457
-2010,United States Coast Guard Academy,New London,CT,06320-4195,Public,59,973,,3000,77.1929824561
 2010,Wesleyan University,Middletown,CT,06459,Private Not-For-Profit,31,3037,1892000,40092,94.3681318681
 2010,Western Connecticut State University,Danbury,CT,06810-6826,Public,21,5556,4750697,7462,44.6666666667
 2010,Yale University,New Haven,CT,06520,Private Not-For-Profit,15,11507,3286734,36500,96.3246554364
@@ -310,7 +307,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,McKendree University,Lebanon,IL,62254-1291,Private Not-For-Profit,32,2454,2979105,22070,52.5222551929
 2010,Millikin University,Decatur,IL,62522-2084,Private Not-For-Profit,32,2234,3051224,26345,58.8679245283
 2010,Monmouth College,Monmouth,IL,61462-1998,Private Not-For-Profit,31,1371,1806333,24950,54.5454545455
-2010,Moody Bible Institute,Chicago,IL,60610-3284,Private Not-For-Profit,-3,2415,,1885,61.5571776156
 2010,National-Louis University,Chicago,IL,60603,Private Not-For-Profit,16,3633,3119803,18355,20.0
 2010,North Central College,Naperville,IL,60540,Private Not-For-Profit,21,2564,2380585,26916,67.9894179894
 2010,North Park University,Chicago,IL,60625-4895,Private Not-For-Profit,21,2387,2357589,18860,58.0441640379
@@ -437,7 +433,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,Murray State University,Murray,KY,42071-3318,Public,21,8472,11494983,5976,53.7862703468
 2010,Northern Kentucky University,Highland Heights,KY,41099,Public,21,12426,14788000,6792,34.2361863489
 2010,Pikeville College,Pikeville,KY,41501,Private Not-For-Profit,32,960,1620708,14535,38.255033557
-2010,The Southern Baptist Theological Seminary,Louisville,KY,40280-0001,Private Not-For-Profit,51,2461,,13190,57.1428571429
 2010,Spalding University,Louisville,KY,40203-2188,Private Not-For-Profit,21,1678,2594216,17700,47.7477477477
 2010,Thomas More College,Crestview Hills,KY,41017-3495,Private Not-For-Profit,32,1606,1441926,23220,45.8100558659
 2010,Transylvania University,Lexington,KY,40508-1797,Private Not-For-Profit,31,1088,1008853,25280,75.8620689655
@@ -454,7 +449,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,Loyola University New Orleans,New Orleans,LA,70118-6143,Private Not-For-Profit,21,3882,3242309,29706,56.9306930693
 2010,McNeese State University,Lake Charles,LA,70605,Public,21,7280,11689148,3587,35.5254674404
 2010,University of New Orleans,New Orleans,LA,70148,Public,16,9506,11958135,4318,19.9775533109
-2010,New Orleans Baptist Theological Seminary,New Orleans,LA,70126,Private Not-For-Profit,51,1868,,5438,19.3548387097
 2010,Nicholls State University,Thibodaux,LA,70310,Public,21,6037,9758549,3965,33.1674958541
 2010,University of Louisiana Monroe,Monroe,LA,71209-0000,Public,21,7616,13085039,3813,31.7434210526
 2010,Northwestern State University of Louisiana,Natchitoches,LA,71497-0002,Public,21,7050,12875404,3932,35.8667805295
@@ -491,7 +485,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,St. Mary's College of Maryland,Saint Mary's City,MD,20686-3001,Public,31,2020,1024634,13234,76.7981438515
 2010,Sojourner-Douglass College,Baltimore,MD,21205-1898,Private Not-For-Profit,59,1064,6297849,7920,29.2307692308
 2010,Towson University,Towson,MD,21252-0001,Public,21,18297,13892993,7418,68.2036503362
-2010,United States Naval Academy,Annapolis,MD,21402-5000,Public,59,4552,,0,88.5906040268
 2010,Stevenson University,Stevenson,MD,21153-0641,Private Not-For-Profit,32,2973,3127313,20644,62.2103386809
 2010,Washington College,Chestertown,MD,21620-1438,Private Not-For-Profit,31,1318,631753,35350,70.7236842105
 2010,McDaniel College,Westminster,MD,21157,Private Not-For-Profit,31,2503,1533000,32000,70.3081232493
@@ -513,7 +506,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,Curry College,Milton,MA,02186-2395,Private Not-For-Profit,32,2442,2304014,29370,47.3880597015
 2010,Dean College,Franklin,MA,02038-1941,Private Not-For-Profit,40,974,1098960,28020,61.5384615385
 2010,Eastern Nazarene College,Quincy,MA,02170-2999,Private Not-For-Profit,22,1026,1387728,22014,56.0240963855
-2010,Emerson College,Boston,MA,02116-4624,Private Not-For-Profit,21,4306,,29918,80.0
 2010,Emmanuel College,Boston,MA,02115,Private Not-For-Profit,21,2002,2029201,29365,61.7582417582
 2010,Endicott College,Beverly,MA,01915,Private Not-For-Profit,32,2972,1178899,25376,69.4711538462
 2010,Fisher College,Boston,MA,02116,Private Not-For-Profit,40,1175,1964266,23450,57.1428571429
@@ -628,7 +620,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,Belhaven University,Jackson,MS,39202,Private Not-For-Profit,32,2729,5468436,16780,54.4303797468
 2010,Delta State University,Cleveland,MS,38733,Public,21,3260,6741062,4450,46.4566929134
 2010,Jackson State University,Jackson,MS,39217,Public,16,7453,26048818,4634,40.3015075377
-2010,Millsaps College,Jackson,MS,39210-0001,Private Not-For-Profit,31,1071,,26240,67.9856115108
 2010,University of Mississippi Main Campus,University,MS,38677-1848,Public,15,14725,19402136,5106,58.71886121
 2010,Mississippi University for Women,Columbus,MS,39701,Public,22,2101,5824826,4423,39.3939393939
 2010,Mississippi Valley State University,Itta Bena,MS,38941-1400,Public,32,2514,10296867,4804,27.1505376344
@@ -846,7 +837,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,Touro College,New York,NY,10010,Private Not-For-Profit,21,12794,18914000,13600,61.0421836228
 2010,United Talmudical Seminary,Brooklyn,NY,11211,Private Not-For-Profit,51,1674,6447047,7000,48.7421383648
 2010,United States Merchant Marine Academy,Kings Point,NY,11024-1699,Public,59,971,298035,0,78.2608695652
-2010,United States Military Academy,West  Point,NY,10996-1905,Public,59,4621,,0,85.6895056375
 2010,Utica College,Utica,NY,13502-4892,Private Not-For-Profit,32,2651,4345409,28284,47.1074380165
 2010,Vassar College,Poughkeepsie,NY,12604,Private Not-For-Profit,31,2417,1690919,41930,93.2721712538
 2010,School of Visual Arts,New York,NY,10010,Private For-Profit,56,3882,4064639,26800,68.6475409836
@@ -889,7 +879,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,University of North Carolina at Pembroke,Pembroke,NC,28372-1510,Public,21,5535,14518998,3736,37.5168690958
 2010,Pfeiffer University,Misenheimer,NC,28109-0960,Private Not-For-Profit,22,1453,1770473,19215,40.3141361257
 2010,Queens University of Charlotte,Charlotte,NC,28274-0001,Private Not-For-Profit,22,1945,2337121,22730,52.7027027027
-2010,Saint Augustines College,Raleigh,NC,27610-2298,Private Not-For-Profit,31,1498,,15690,23.1481481481
 2010,Shaw University,Raleigh,NC,27601,Private Not-For-Profit,32,2383,8641481,11696,28.0701754386
 2010,Wake Forest University,Winston Salem,NC,27106,Private Not-For-Profit,16,6975,1970518,38622,88.7285843102
 2010,Warren Wilson College,Swannanoa,NC,28778-2099,Private Not-For-Profit,22,1025,998135,24196,49.0476190476
@@ -1034,7 +1023,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,Gannon University,Erie,PA,16541-0001,Private Not-For-Profit,21,3439,3949000,24269,69.7424892704
 2010,Geneva College,Beaver Falls,PA,15010-3599,Private Not-For-Profit,22,1796,2719746,21400,60.9571788413
 2010,Gettysburg College,Gettysburg,PA,17325-1486,Private Not-For-Profit,31,2529,1371354,39140,84.9295774648
-2010,Grove City College,Grove City,PA,16127-2104,Private Not-For-Profit,32,2511,,12590,82.7814569536
 2010,Gwynedd Mercy College,Gwynedd Valley,PA,19437-0901,Private Not-For-Profit,22,2019,2149000,24180,66.6666666667
 2010,Haverford College,Haverford,PA,19041-1392,Private Not-For-Profit,31,1190,846933,39085,92.1212121212
 2010,Holy Family University,Philadelphia,PA,19114-2009,Private Not-For-Profit,21,2315,2308463,22460,56.7901234568
@@ -1148,7 +1136,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,Carson-Newman College,Jefferson City,TN,37760,Private Not-For-Profit,21,2001,3028618,18702,53.3482142857
 2010,Christian Brothers University,Memphis,TN,38104,Private Not-For-Profit,22,1557,2441704,23730,54.8387096774
 2010,Cumberland University,Lebanon,TN,37087,Private Not-For-Profit,22,1127,1740097,17430,32.0197044335
-2010,Lipscomb University,Nashville,TN,37204-3951,Private Not-For-Profit,22,3112,,20390,55.1578947368
 2010,East Tennessee State University,Johnson City,TN,37614-0000,Public,16,12722,19269395,5533,39.2156862745
 2010,Freed-Hardeman University,Henderson,TN,38340-2399,Private Not-For-Profit,21,1701,2234194,14998,54.7425474255
 2010,King College,Bristol,TN,37620-2699,Private Not-For-Profit,31,1647,2323254,21880,56.976744186
@@ -1351,7 +1338,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,Atlantic College,Guaynabo,PR,00970,Private Not-For-Profit,33,1028,5051698,6075,48.1927710843
 2010,Bayamon Central University,Bayamon,PR,00960-1725,Private Not-For-Profit,21,1811,9931242,4620,24.0343347639
 2010,Caribbean University-Bayamon,Bayamon,PR,00959-0493,Private Not-For-Profit,32,2132,21291807,4470,2.1897810219
-2010,Pontifical Catholic University of Puerto Rico-Ponce,Ponce,PR,00717-9997,Private Not-For-Profit,21,8894,,4998,31.6783216783
 2010,Colegio Universitario de San Juan,San Juan,PR,00918,Public,40,1466,7163360,2370,35.1351351351
 2010,Universidad Metropolitana,Cupey,PR,00928-1345,Private Not-For-Profit,21,10665,50214260,4924,15.860899067
 2010,Inter American University of Puerto Rico-San German,San German,PR,00683,Private Not-For-Profit,21,5141,18776107,4428,30.387409201

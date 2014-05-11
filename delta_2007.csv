@@ -120,7 +120,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,University of Southern California,Los Angeles,CA,90089,Private Not-For-Profit,15,30812,7573004,33892,84.5763939175
 2007,Westmont College,Santa Barbara,CA,93108-1089,Private Not-For-Profit,31,1322,429461,29470,69.3989071038
 2007,Whittier College,Whittier,CA,90601,Private Not-For-Profit,31,1874,967820,29206,58.1395348837
-2007,Woodbury University,Burbank,CA,91510-7846,Private Not-For-Profit,22,1300,,24142,49.1228070175
 2007,Adams State College,Alamosa,CO,81102,Public,21,4438,3553491,2924,33.3333333333
 2007,University of Colorado at Denver and Health Sciences Center,Denver,CO,80217-3364,Public,16,13496,5952406,5177,39.0243902439
 2007,University of Colorado at Colorado Springs,Colorado Springs,CO,80933-7150,Public,21,6827,4119039,4899,40.6369426752
@@ -140,7 +139,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,University of Northern Colorado,Greeley,CO,80639,Public,16,11670,5152493,3950,48.4345351044
 2007,Regis University,Denver,CO,80221-1099,Private Not-For-Profit,21,7796,2397348,25200,60.1423487544
 2007,Colorado State University-Pueblo,Pueblo,CO,81001-4901,Public,21,4526,4776225,3947,36.2776025237
-2007,United States Air Force Academy,Usafa,CO,80840-5002,Public,59,4524,,0,77.4873524452
 2007,Western State College of Colorado,Gunnison,CO,81231,Public,31,2075,1277071,3349,36.3636363636
 2007,Albertus Magnus College,New Haven,CT,06511-1189,Private Not-For-Profit,32,2050,1097606,19540,56.880733945
 2007,University of Bridgeport,Bridgeport,CT,06604-5620,Private Not-For-Profit,16,3069,1757000,21710,42.8571428571
@@ -156,7 +154,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,Saint Joseph College,West Hartford,CT,06117-2791,Private Not-For-Profit,21,1259,796000,23490,54.5454545455
 2007,Southern Connecticut State University,New Haven,CT,06515-1355,Public,21,9626,4591644,6442,37.6487053884
 2007,Trinity College,Hartford,CT,06106-3100,Private Not-For-Profit,31,2293,791757,35130,86.5580448065
-2007,United States Coast Guard Academy,New London,CT,06320-4195,Public,59,995,,3000,80.8429118774
 2007,Wesleyan University,Middletown,CT,06459,Private Not-For-Profit,31,3080,931000,34844,92.243767313
 2007,Western Connecticut State University,Danbury,CT,06810-6860,Public,21,4940,2126378,6106,37.8896882494
 2007,Yale University,New Haven,CT,06520,Private Not-For-Profit,15,11303,1659000,33030,95.9783449343
@@ -419,7 +416,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,Murray State University,Murray,KY,42071-3318,Public,21,8638,6147564,4998,50.8852963818
 2007,Northern Kentucky University,Highland Heights,KY,41099,Public,21,11684,7350000,5448,32.6352530541
 2007,Pikeville College,Pikeville,KY,41501,Private Not-For-Profit,32,1065,1392004,12750,30.3797468354
-2007,The Southern Baptist Theological Seminary,Louisville,KY,40280-0001,Private Not-For-Profit,51,2573,,6750,32.4074074074
 2007,Spalding University,Louisville,KY,40203-2188,Private Not-For-Profit,21,1332,1230777,15900,23.8938053097
 2007,Sullivan University,Louisville,KY,40205-3013,Private For-Profit,33,3132,5612174,14265,62.6582278481
 2007,Thomas More College,Crestview Hills,KY,41017-3495,Private Not-For-Profit,32,1253,671941,20220,40.701754386
@@ -436,7 +432,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,Loyola University New Orleans,New Orleans,LA,70118-6143,Private Not-For-Profit,21,3903,1520391,25246,67.5925925926
 2007,McNeese State University,Lake Charles,LA,70609-2215,Public,21,7173,7761036,3246,35.0507416081
 2007,University of New Orleans,New Orleans,LA,70148,Public,16,9054,9671069,3810,24.0263024785
-2007,New Orleans Baptist Theological Seminary,New Orleans,LA,70126,Private Not-For-Profit,51,1854,,2005,57.1428571429
 2007,Nicholls State University,Thibodaux,LA,70310,Public,21,5774,6089797,3471,30.1780693533
 2007,University of Louisiana at Monroe,Monroe,LA,71209-0000,Public,21,7425,8584322,3501,32.0379965458
 2007,Northwestern State University of Louisiana,Natchitoches,LA,71497-0002,Public,21,7579,9572404,3553,38.3465259455
@@ -474,11 +469,9 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,St Mary's College of Maryland,Saint Mary's City,MD,20686-3001,Public,31,1906,560983,11418,82.7133479212
 2007,Sojourner-Douglass College,Baltimore,MD,21205-1898,Private Not-For-Profit,59,814,2513000,6740,28.7037037037
 2007,Towson University,Towson,MD,21252-0001,Public,21,16128,6059451,7164,66.387434555
-2007,United States Naval Academy,Annapolis,MD,21402-5000,Public,59,4479,,0,82.4873096447
 2007,Villa Julie College,Stevenson,MD,21153-0641,Private Not-For-Profit,32,2731,1364362,16770,61.1881188119
 2007,Washington College,Chestertown,MD,21620-1438,Private Not-For-Profit,31,1354,209538,30200,73.3727810651
 2007,McDaniel College,Westminster,MD,21157,Private Not-For-Profit,31,2539,673000,27280,71.7391304348
-2007,American International College,Springfield,MA,01109,Private Not-For-Profit,21,1599,,20990,49.7461928934
 2007,Amherst College,Amherst,MA,01002-5000,Private Not-For-Profit,31,1648,696225,34916,95.5813953488
 2007,Anna Maria College,Paxton,MA,01612-1198,Private Not-For-Profit,21,856,475791,23234,55.7142857143
 2007,Assumption College,Worcester,MA,01609-1296,Private Not-For-Profit,21,2467,630182,26150,68.5430463576
@@ -538,7 +531,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,Wheaton College,Norton,MA,02766,Private Not-For-Profit,31,1549,587700,34610,78.9473684211
 2007,Wheelock College,Boston,MA,02215-4176,Private Not-For-Profit,21,890,532053,24890,57.037037037
 2007,Williams College,Williamstown,MA,01267,Private Not-For-Profit,31,2059,793311,33700,95.1923076923
-2007,Worcester Polytechnic Institute,Worcester,MA,01609-2280,Private Not-For-Profit,16,3547,,33318,75.5747126437
 2007,Worcester State College,Worcester,MA,01602-2597,Public,21,4185,1932045,5539,39.8576512456
 2007,Adrian College,Adrian,MI,49221-2575,Private Not-For-Profit,31,1024,869334,18630,50.5454545455
 2007,Albion College,Albion,MI,49224,Private Not-For-Profit,31,1924,724710,26122,70.6666666667
@@ -828,7 +820,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,Touro College,New York,NY,10010,Private Not-For-Profit,21,17107,15368000,12100,57.6219512195
 2007,United Talmudical Seminary,Brooklyn,NY,11211,Private Not-For-Profit,51,1413,3950100,6000,31.1170212766
 2007,United States Merchant Marine Academy,Kings Point,NY,11024-1699,Public,59,949,154817,0,78.7644787645
-2007,United States Military Academy,West  Point,NY,10996-2101,Public,59,1244,,0,81.3263525305
 2007,Utica College,Utica,NY,13502-4892,Private Not-For-Profit,32,2430,2489539,23440,48.8421052632
 2007,Vassar College,Poughkeepsie,NY,12604,Private Not-For-Profit,31,2398,604590,36030,93.0935251799
 2007,School of Visual Arts,New York,NY,10010,Private For-Profit,56,3486,2420421,22080,66.3265306122
@@ -957,7 +948,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,Oklahoma Christian University,Edmond,OK,73013-1100,Private Not-For-Profit,32,2244,1475000,14976,40.0
 2007,Oklahoma Panhandle State University,Goodwell,OK,73939-0430,Public,32,1012,1263701,3309,33.3333333333
 2007,Oklahoma State University-Main Campus,Stillwater,OK,74078,Public,15,20276,12589053,4997,57.5708762887
-2007,Oklahoma Baptist University,Shawnee,OK,74804,Private Not-For-Profit,32,1486,,14604,56.0196560197
 2007,Oklahoma City University,Oklahoma City,OK,73106-1402,Private Not-For-Profit,21,3284,1039165,19245,47.138047138
 2007,University of Oklahoma Norman Campus,Norman,OK,73019-3072,Public,15,21889,11042000,5110,62.4414439239
 2007,Oral Roberts University,Tulsa,OK,74171,Private Not-For-Profit,21,2915,2561338,16670,51.7361111111
@@ -1016,7 +1006,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,Gannon University,Erie,PA,16541,Private Not-For-Profit,21,3109,1839000,20586,65.8
 2007,Geneva College,Beaver Falls,PA,15010-3599,Private Not-For-Profit,22,1800,1341207,18460,53.355704698
 2007,Gettysburg College,Gettysburg,PA,17325-1486,Private Not-For-Profit,31,2519,829618,33830,81.4871016692
-2007,Grove City College,Grove City,PA,16127-2104,Private Not-For-Profit,32,2478,,10962,81.9112627986
 2007,Gwynedd Mercy College,Gwynedd Valley,PA,19437-0901,Private Not-For-Profit,22,1930,1051126,19245,77.6
 2007,Haverford College,Haverford,PA,19041-1392,Private Not-For-Profit,31,1168,390500,33710,91.2162162162
 2007,Holy Family University,Philadelphia,PA,19114-2009,Private Not-For-Profit,21,2281,1540138,18850,57.671957672
@@ -1087,7 +1076,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,Anderson University,Anderson,SC,29621,Private Not-For-Profit,32,1480,1207566,16550,41.5902140673
 2007,Charleston Southern University,Charleston,SC,29406-8087,Private Not-For-Profit,21,2636,3224629,16955,39.1191709845
 2007,Benedict College,Columbia,SC,29204-1086,Private Not-For-Profit,32,2492,6641360,13602,27.1844660194
-2007,Bob Jones University,Greenville,SC,29614,Private Not-For-Profit,-3,3875,,9770,64.75
 2007,Southern Wesleyan University,Central,SC,29630-1020,Private Not-For-Profit,22,2510,1548283,16150,51.1627906977
 2007,College of Charleston,Charleston,SC,29424-0001,Public,21,10012,3603159,7234,59.532282664
 2007,Citadel Military College of South Carolina,Charleston,SC,29409,Public,21,2675,875701,7168,65.2482269504
@@ -1130,7 +1118,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2007,Carson-Newman College,Jefferson City,TN,37760,Private Not-For-Profit,21,1885,1576983,16060,51.8427518428
 2007,Christian Brothers University,Memphis,TN,38104,Private Not-For-Profit,22,1453,1379884,20080,57.4912891986
 2007,Cumberland University,Lebanon,TN,37087,Private Not-For-Profit,22,1079,974273,14810,36.0
-2007,Lipscomb University,Nashville,TN,37204-3951,Private Not-For-Profit,22,2356,,15566,56.25
 2007,East Tennessee State University,Johnson City,TN,37614-0000,Public,16,10845,8947421,4637,38.3928571429
 2007,Fisk University,Nashville,TN,37208-4501,Private Not-For-Profit,31,919,1215807,13970,53.3783783784
 2007,Freed-Hardeman University,Henderson,TN,38340-2399,Private Not-For-Profit,21,1655,1173345,13192,58.6705202312
