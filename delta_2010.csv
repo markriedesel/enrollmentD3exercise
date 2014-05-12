@@ -1,4 +1,5 @@
 academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant01,tuitionfee02_tf,grad_rate_150_p4yr
+2010,University of Phoenix-Online Campus,Phoenix,AZ,85034-7209,Private For-Profit,-3,380232,968604318,9792,5.36267823931
 2010,Alabama A & M University,Normal,AL,35762,Public,16,4796,14808815,4692,33.0550918197
 2010,University of Alabama at Birmingham,Birmingham,AL,35294-0110,Public,15,13652,16255850,5096,41.0691003911
 2010,University of Alabama in Huntsville,Huntsville,AL,35899,Public,16,6085,7894629,6510,43.6447166922
@@ -1375,7 +1376,6 @@ academicyear,instname,city,state,zip,sector_revised,carnegie2000,fte_count,grant
 2010,California State University-San Marcos,San Marcos,CA,92096-0001,Public,21,7868,10711676,4650,44.2404006678
 2010,Everest University-Lakeland,Lakeland,FL,33801,Private For-Profit,33,825,4481252,13536,36.3636363636
 2010,ITT Technical Institute-Norfolk,Norfolk,VA,23502-3701,Private For-Profit,40,1024,2923814,17148,8.0
-2010,University of Phoenix-Online Campus,Phoenix,AZ,85034-7209,Private For-Profit,-3,380232,968604318,9792,5.36267823931
 2010,ITT Technical Institute-Torrance,Torrance,CA,90502,Private For-Profit,40,864,3179989,17148,16.6666666667
 2010,University of Phoenix-Utah Campus,Salt Lake City,UT,84123-4642,Private For-Profit,-3,3097,3319671,9360,19.3548387097
 2010,ITT Technical Institute-San Bernardino,San Bernardino,CA,92408,Private For-Profit,54,1400,5996560,17148,15.7894736842

@@ -90,7 +90,6 @@ body {
 <!-- This does not work if there is not internet connection -->
 <script src="http://d3js.org/d3.v3.min.js"></script>
 
-
 <!-- This option uses the d3 I downloaded from the D3.js web site -->
 <!--
 <script src="../D3.d/d3/d3.min.js"></script>
@@ -264,12 +263,12 @@ dots =  svg.selectAll(".dot")
       .on("mouseover", function(d) {
 	      if (pell) {    
           tooltip.transition().duration(200).style("opacity", .9);
-          tooltip.html(d.instname + "<br/> " + "Total Pell Grants: $" + d.grant01)
+          tooltip.html(d.instname + "<br/> " + "Total Pell Grants: $" + addCommas(d.grant01))
                .style("left", (d3.event.pageX + 5) + "px")
                .style("top", (d3.event.pageY - 28) + "px");
 	       } else if (enroll) {
           tooltip.transition().duration(200).style("opacity", .9);
-          tooltip.html(d.instname + "<br/> " + "Total Enrollment: " + d.fte_count)
+          tooltip.html(d.instname + "<br/> " + "Total Enrollment: " + addCommas(d.fte_count))
                .style("left", (d3.event.pageX + 5) + "px")
                .style("top", (d3.event.pageY - 28) + "px");
 	       } else {
@@ -284,7 +283,7 @@ dots =  svg.selectAll(".dot")
                .duration(500)
                .style("opacity", 0);
        });
-       dots.exit().transition().duration(500).attr("r",0).remove();
+       dots.exit().remove();
 
        title.text(function(d) {
 	      if (pell)
@@ -320,6 +319,21 @@ dots =  svg.selectAll(".dot")
 };
 
 }
+
+// Add commas to the large numbers in enrollment and pell grant totals
+// taken from http://raovishal.blogspot.com/2012/01/number-format-in-javascript.html
+function addCommas(nStr)
+{
+ nStr += '';
+ x = nStr.split('.');
+ x1 = x[0];
+ x2 = x.length > 1 ? '.' + x[1] : '';
+ var rgx = /(\d+)(\d{3})/;
+ while (rgx.test(x1)) {
+      x1 = x1.replace(rgx, '$1' + ',' + '$2');
+ }
+  return x1 + x2;
+ }
 
 // run the entire plot as a function
 run_all();
