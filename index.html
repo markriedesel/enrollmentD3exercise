@@ -125,19 +125,22 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-// setup x 
+// setup x -- six year graduaton rate
 var xValue = function(d) { return d.grad_rate_150_p4yr;}, // data -> value
     xScale = d3.scale.linear().range([0, width]), // value -> display
     xMap = function(d) { return xScale(xValue(d));}, // data -> display
     xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 
-// setup y
+// setup y -- Tuition
 var yValue = function(d) { return d.tuitionfee02_tf;}, // data -> value
     yScale = d3.scale.linear().range([0, height]), // value -> display
     yMap = function(d) { return yScale(yValue(d));}, // data -> display
     yAxis = d3.svg.axis().scale(yScale).orient("left");
 
-// setup fill color
+// setup fill color -- Color shows Institution type
+// Public
+// Private Not-For-Profit
+// Private For-Profit
 var cValue = function(d) { return d.sector_revised;},
     color = d3.scale.category10();
     
@@ -228,6 +231,7 @@ function run_all() {
 d3.csv("delta_" + acadyear + ".csv", function(error, data) {
   // load data into a variable
   dataset = data;
+  // draw the data poinst and the legend
   draw_graph();
 })
 
@@ -243,6 +247,7 @@ function draw_graph() {
 
 // draw dots (i.e. plot the data points on the graph)
 dots =  svg.selectAll(".dot")
+     // returns a unique identifier for each row
     .data(dataset,function(d) { 
 	return d.academicyear + d.instname;});
 
@@ -335,7 +340,7 @@ function addCommas(nStr)
   return x1 + x2;
  }
 
-// run the entire plot as a function
+// run the entire plot as a function when the initial plot is loaded
 run_all();
 
 </script>
