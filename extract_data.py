@@ -6,6 +6,11 @@
 #
 # Mark Riedsel, April 29, 2014
 #
+# The raw data comes from the web site for the "Delta Cost Project"
+# 
+# http://nces.ed.gov/ipeds/deltacostproject/
+# data file link: "IPEDS Analytics: Delta Cost Project Database 1987-2010 (CSV)" 
+#
 # The information on the fields in the input CSV file is contained in the 
 # "Delta Data Dictory 1987_2010.xls"
 #
